@@ -1,0 +1,11 @@
+{
+  "name": "YireoGrunt",
+  "version": "0.1.0",
+  "author": "Jisse Reitsma",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-less": "~0.12.0"
+  }
+}

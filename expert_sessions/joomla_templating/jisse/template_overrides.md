@@ -45,16 +45,19 @@ De `tmpl` folder bevat de PHP+HTML templates
 2. HTML een beetje aanpassen
 3. Basis PHP structuur aanpassen
 4. Geavanceerde tips & trucs
+
 ---
 # Stap 1: Copie maken
 * Van component of module naar template
 * Welk bestand?
+
 ---
 # Stap 1 - module
 Van:
 `modules/mod_articles_latest/tmpl/defaul.php`
 Naar: 
 `templates/TEMPLATE/html/mod_articles_latest/default.php`
+
 ---
 # Stap 1 - artikel view
 URL:
@@ -63,6 +66,7 @@ Van:
 `components/com_content/views/article/tmpl/default.php`
 Naar:
 `templates/TEMPLATE/html/com_content/article/default.php`
+
 ---
 # Stap 1 - blog overzicht
 URL:
@@ -71,11 +75,13 @@ Van:
 `components/com_content/views/article/tmpl/default.php`
 Naar:
 `templates/TEMPLATE/html/com_content/article/default.php`
+
 ---
 # Stap 2 - HTML code
 * CSS klasses toevoegen of aanpassen
 * HTML hierarchie aanpassen
 * Onnodige blokken HTML weghalen
+
 ---
 # Stap 3 - PHP structuur
 ```php
@@ -87,6 +93,7 @@ Naar:
 <?php foreach($loop) : ?>
 <?php endforeach; ?>
 ```
+
 ---
 # Parameters
 ```php
@@ -101,6 +108,7 @@ Naar:
 	* `JMenu`, `JURI`, `JDocument`, `JUser`
 	* `JFactory::getApplication()->input`
 * Model aanroepen voor extra data
+
 ---
 # Uitvoer van content plugins
 ```
@@ -108,6 +116,7 @@ echo $this->item->event->afterDisplayTitle;
 echo $this->item->event->beforeDisplayContent;
 echo $this->item->event->afterDisplayContent;
 ```
+
 ---
 # Alternative layouts
 Extra layout bestanden zelf aanmaken

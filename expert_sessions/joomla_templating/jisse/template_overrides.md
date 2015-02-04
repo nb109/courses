@@ -55,6 +55,7 @@ De `tmpl` folder bevat de PHP+HTML templates
 # Stap 1 - module
 Van:
 `modules/mod_articles_latest/tmpl/defaul.php`
+
 Naar: 
 `templates/TEMPLATE/html/mod_articles_latest/default.php`
 
@@ -62,8 +63,10 @@ Naar:
 # Stap 1 - artikel view
 URL:
 `index.php?option=com_content&view=article`
+
 Van: 
 `components/com_content/views/article/tmpl/default.php`
+
 Naar:
 `templates/TEMPLATE/html/com_content/article/default.php`
 
@@ -71,8 +74,10 @@ Naar:
 # Stap 1 - blog overzicht
 URL:
 `index.php?option=com_content&view=article`
+
 Van: 
 `components/com_content/views/article/tmpl/default.php`
+
 Naar:
 `templates/TEMPLATE/html/com_content/article/default.php`
 

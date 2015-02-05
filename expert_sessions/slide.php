@@ -16,6 +16,7 @@ if(stristr($slide, __DIR__) == false) die('access denied');
   <head>
     <title><?php echo $title; ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="css/pwt.css" />
     <link rel="stylesheet" href="css/<?php echo $style; ?>.css" />
   </head>
   <body>

@@ -1,5 +1,7 @@
+class: center, middle
 # Template Overrides
-### door Jisse Reitsma
+## door Jisse Reitsma
+### <a href="http://twitter.com/jissereitsma">@jissereitsma</a>
 
 ---
 # Template Overrides

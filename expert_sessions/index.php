@@ -4,7 +4,7 @@ $slideGroups = array(
         'group' => 'Programma',
         'style' => 'expertsession',
         'slides' => array(
-            array('file' => 'joomla_templating/sander/indexphp', 'title' => 'Optimale index.php zonder fluff', 'speaker' => 'Sander'),
+            array('file' => 'joomla_templating/sander/goede_basis', 'title' => 'Een goede basis', 'speaker' => 'Sander'),
             array('file' => 'joomla_templating/jisse/template_overrides', 'title' => 'Template Overrides', 'speaker' => 'Jisse'),
             array('file' => 'joomla_templating/sander/jlayout', 'title' => 'JLayout', 'speaker' => 'Sander'),
             array('file' => 'joomla_templating/hans/bootstrap', 'title' => 'Bootstrap', 'speaker' => 'Hans'),
@@ -28,7 +28,7 @@ $slideGroups = array(
     <div class="container">
         <div class="title-box">
             <div class="title">
-                <h1>Joomla! templating<br/><span>Expert Sessie</span></h1>
+                <h1>Joomla! Templating<br/><span>Expert Sessie</span></h1>
                 <p>vrijdag 06 februari, 14:00-17:00 uur, Almere</p>
             </div>
         </div>

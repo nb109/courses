@@ -53,33 +53,49 @@ De `tmpl` folder bevat de PHP+HTML templates
 
 ---
 # Stap 1 - module
-Van:
-`modules/mod_articles_latest/tmpl/defaul.php`
+Van
+```
+modules/mod_articles_latest/tmpl/default.php
+```
 
-Naar: 
-`templates/TEMPLATE/html/mod_articles_latest/default.php`
+Naar
+```
+templates/TEMPLATE/html/mod_articles_latest/default.php
+```
 
 ---
 # Stap 1 - artikel view
-URL:
-`index.php?option=com_content&view=article`
+URL
+```
+index.php?option=com_content&view=article
+```
 
-Van: 
-`components/com_content/views/article/tmpl/default.php`
+Van
+```
+components/com_content/views/article/tmpl/default.php
+```
 
-Naar:
-`templates/TEMPLATE/html/com_content/article/default.php`
+Naar
+```
+templates/TEMPLATE/html/com_content/article/default.php
+```
 
 ---
 # Stap 1 - blog overzicht
-URL:
-`index.php?option=com_content&view=article`
+URL
+```
+index.php?option=com_content&view=article
+```
 
-Van: 
-`components/com_content/views/article/tmpl/default.php`
+Van
+```
+components/com_content/views/article/tmpl/default.php
+```
 
-Naar:
-`templates/TEMPLATE/html/com_content/article/default.php`
+Naar
+```
+templates/TEMPLATE/html/com_content/article/default.php
+```
 
 ---
 # Stap 2 - HTML code
@@ -116,7 +132,7 @@ Naar:
 
 ---
 # Uitvoer van content plugins
-```
+```php
 echo $this->item->event->afterDisplayTitle;
 echo $this->item->event->beforeDisplayContent;
 echo $this->item->event->afterDisplayContent;
@@ -125,11 +141,13 @@ echo $this->item->event->afterDisplayContent;
 ---
 # Alternative layouts
 Extra layout bestanden zelf aanmaken
-`templates/TEMPLATE/html/com_content/article/product.php`
+```
+templates/TEMPLATE/html/com_content/article/product.php
+```
 
 Optie "Alternative Layout" nodig in Menu-Item!
 
 ---
 # Vragen?
-* https://docs.joomla.org/How_to_override_the_output_from_the_Joomla!_core
-* https://docs.joomla.org/Layout_Overrides_in_Joomla
+* docs.joomla.org/How_to_override_the_output_from_the_Joomla!_core
+* docs.joomla.org/Layout_Overrides_in_Joomla

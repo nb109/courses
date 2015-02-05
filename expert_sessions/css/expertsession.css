@@ -1,0 +1,35 @@
+div.remark-slides-area {
+    background: transparent url(../images/expert-sessie.jpg) top left no-repeat;
+}
+
+div.remark-slide-container {
+}
+
+div.remark-slide {
+}
+
+div.remark-slide-number {
+}
+
+h1, h2, h3 {
+}
+
+.remark-slide-content {
+    font-size: 28px;
+}
+      
+.remark-code, .remark-inline-code {
+}
+
+code {
+    background-color: #d2e8f8;
+}
+
+li {
+    line-height: 190%;
+}
+
+li li {
+    font-size: 80%;
+    color: #333;
+}

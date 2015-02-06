@@ -1,4 +1,4 @@
-class: center, middle
+class: middle
 # Een goede basis
 ## door Sander Potjer
 ### <a href="http://twitter.com/sanderpotjer">@sanderpotjer</a>

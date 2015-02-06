@@ -78,6 +78,11 @@ jQuery(document).ready(function(){
 ### Daarom output naar eigen hand zetten
 
 ---
+class: center, middle
+# JavaScript opruimen
+
+
+---
 class: code-14
 # Broncode website - JS
 ```html
@@ -347,6 +352,10 @@ JHtml::_('script', 'com_finder/autocompleter.js', false, true);
 - Template override
 
 ---
+class: center, middle
+# CSS opruimen
+
+---
 class: code-14
 # index.php - CSS opruimen
 ```php
@@ -364,6 +373,10 @@ foreach($this->_styleSheets as $name=>$style)
 	}
 }
 ```
+
+---
+class: center, middle
+# Opgeruimd
 
 ---
 class: code-12
@@ -417,6 +430,10 @@ class: code-12
 ```
 
 ---
+class: center, middle
+# Eigen JS, CSS & Meta toevoegen
+
+---
 class: code-12
 # Eigen JS, CSS & Meta toevoegen
 ```php
@@ -432,10 +449,15 @@ $doc->setMetaData('viewport', 'width=device-width, initial-scale=1.0' );
 $doc->setMetaData('content-type', 'text/html', true );
 $doc->setGenerator($sitename);
 ```
+--
 ## Merk op
 - addScript met `true` aan het eind. Zorgt voor `defer="defer"`
 - Google jQuery (waarschijnlijk al in browser cache)
 - site.min.js met alle site-specifieke JavaScript
+
+---
+class: center, middle
+# Samenvattend
 
 ---
 class: code-8
@@ -566,5 +588,5 @@ class: code-12
 
 <br><br>
 
-## Resourcres
-- [link naar PWT basis op github]
+## Resources
+- Basis Joomla template voor maatwerk-templates <a href="https://github.com/perfectwebteam/basic-template">https://github.com/perfectwebteam/basic-template</a>

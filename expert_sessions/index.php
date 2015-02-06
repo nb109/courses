@@ -24,7 +24,7 @@ $slideGroups = array(
     <link rel="stylesheet" href="css/pwt.css" />
     <link rel="stylesheet" href="css/custom.css" />
   </head>
-  <body style="background: transparent url('images/expert-sessie.jpg') top left no-repeat">
+  <body style="background: transparent url('images/expert-sessie-joomla-templating.jpg') top center no-repeat">
     <div class="container">
         <div class="title-box">
             <div class="title">

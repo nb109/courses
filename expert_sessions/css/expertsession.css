@@ -1,12 +1,12 @@
 .remark-slides-area {
-    background: transparent url(../images/expert-sessie.jpg) top left no-repeat;
+    background: transparent url(../images/expert-sessie-joomla-templating.jpg) top center no-repeat;
 }
 
 .remark-slide-container {
 }
 
 .remark-slide-content {
-	padding: 1em 2em 1em 2em;
+	padding: 0em 2em 1em 2em;
 	background: #f3f3f3;
 }
 
@@ -17,6 +17,7 @@
 }
 
 h1, h2, h3 {
+	text-align: left;
 }
 
 .remark-slide-content,
@@ -48,10 +49,46 @@ pre {
 
 pre .remark-code {
 	color: black;
-	font-size: 22px;
+	font-size: 20px;
+}
+
+.code-18 .remark-code {
+	font-size: 18px;
+}
+
+.code-16 .remark-code {
+	font-size: 16px;
+}
+
+.code-14 .remark-code {
+	font-size: 14px;
+}
+
+.code-12 .remark-code {
+	font-size: 12px;
+}
+
+.code-11 .remark-code {
+	font-size: 11px;
+}
+
+.code-10 .remark-code {
+	font-size: 10px;
+}
+
+.code-9 .remark-code {
+	font-size: 9px;
+}
+
+.code-8 .remark-code {
+	font-size: 8px;
+}
+
+.code-7 .remark-code {
+	font-size: 7px;
 }
 
 .center.middle h1 {
 	color: #2c4b71;
-	font-size: 60px;
+	font-size: 80px;
 }

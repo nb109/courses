@@ -8,7 +8,7 @@ $slideGroups = array(
             array('file' => 'joomla_templating/jisse/template_overrides', 'title' => 'Template Overrides', 'speaker' => 'Jisse'),
             array('file' => 'joomla_templating/sander/jlayout', 'title' => 'JLayout', 'speaker' => 'Sander'),
             array('file' => 'joomla_templating/hans/bootstrap', 'title' => 'Bootstrap', 'speaker' => 'Hans'),
-            array('file' => 'joomla_templating/jisse/template_overrides', 'title' => 'PHP Helper klasse', 'speaker' => 'Jisse'),
+            array('file' => 'joomla_templating/jisse/php_helper', 'title' => 'PHP Helper klasse', 'speaker' => 'Jisse'),
             array('file' => 'joomla_templating/jisse/js_snippets', 'title' => 'JavaScript / jQuery', 'speaker' => 'Jisse'),
             array('file' => 'joomla_templating/hans/less', 'title' => 'LESS', 'speaker' => 'Hans'),
             array('file' => 'joomla_templating/jisse/building_tools', 'title' => 'Automatiseren', 'speaker' => 'Jisse'),

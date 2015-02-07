@@ -21,7 +21,7 @@ if(stristr($slide, __DIR__) == false) die('access denied');
   </head>
   <body>
     <textarea id="source"><?php echo file_get_contents($slide); ?></textarea>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
+    <script src="js/remark-latest.min.js"></script>
     <script>
       var slideshow = remark.create({
         slideNumberFormat: '<?php echo $title; ?> - %current% of %total%',

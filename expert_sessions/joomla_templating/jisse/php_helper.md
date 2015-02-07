@@ -1,5 +1,7 @@
+class: middle
 # PHP helpers
 ## door Jisse Reitsma
+### <a href="http://twitter.com/jissereitsma">@jissereitsma</a>
 
 ---
 # PHP helper
@@ -129,6 +131,7 @@ public function __construct()
 ```
 
 ---
+class: code-16
 # Nuttige classes voor de <body>
 ```php
 public function getBodySuffix()

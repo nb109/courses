@@ -1,3 +1,9 @@
+class: middle
+# Automatiseren
+## door Jisse Reitsma
+### <a href="http://twitter.com/jissereitsma">@jissereitsma</a>
+
+---
 # Building tools
 * Zoveel mogelijk stappen automatiseren
 * Snel en eenvoudig

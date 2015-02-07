@@ -1,3 +1,9 @@
+class: middle
+# JavaScript snippets
+## door Jisse Reitsma
+### <a href="http://twitter.com/jissereitsma">@jissereitsma</a>
+
+---
 # JavaScript snippets
 * Equal height
 * Cookie notice

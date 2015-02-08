@@ -1,0 +1,52 @@
+<slidesets>
+    <title>Programma</title>
+    <style>expertsession</style>
+    <slideset>
+        <id>goede_basis</id>
+        <file>joomla_templating/sander/goede_basis</file>
+        <title>Een goede basis</title>
+        <speaker>Sander</speaker>
+    </slideset>
+    <slideset>
+        <id>template_overrides</id>
+        <file>joomla_templating/jisse/template_overrides</file>
+        <title>Template Overrides</title>
+        <speaker>Jisse</speaker>
+    </slideset>
+    <slideset>
+        <id>jlayout</id>
+        <file>joomla_templating/sander/jlayout</file>
+        <title>JLayout</title>
+        <speaker>Sander</speaker>
+    </slideset>
+    <slideset>
+        <id>bootstrap</id>
+        <file>joomla_templating/hans/bootstrap</file>
+        <title>Bootstrap</title>
+        <speaker>Hans</speaker>
+    </slideset>
+    <slideset>
+        <id>php_helper</id>
+        <file>joomla_templating/jisse/php_helper</file>
+        <title>PHP Helper</title>
+        <speaker>Jisse</speaker>
+    </slideset>
+    <slideset>
+        <id>js_snippets</id>
+        <file>joomla_templating/jisse/js_snippets</file>
+        <title>JavaScript en jQuery</title>
+        <speaker>Jisse</speaker>
+    </slideset>
+    <slideset>
+        <id>less</id>
+        <file>joomla_templating/hans/less</file>
+        <title>LESS</title>
+        <speaker>Hans</speaker>
+    </slideset>
+    <slideset>
+        <id>building_tools</id>
+        <file>joomla_templating/jisse/building_tools</file>
+        <title>Automatiseren</title>
+        <speaker>Jisse</speaker>
+    </slideset>
+</slidesets>

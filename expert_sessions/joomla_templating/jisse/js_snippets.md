@@ -9,7 +9,7 @@ class: middle
 * Cookie notice
 * Datum van bezoeker
 * Eigen jQuery versie
-* HTML 5 Shiv
+* HTML 5 support
 * Naar boven
 * Scrollspy
 ---
@@ -52,7 +52,7 @@ Probleem van ongelijke kolommen
 ---
 # Cookie Notice
 * Joomla extensie
-	* Twentronix Cookie Confirm
+	* Rene Kreijvelds CookieBanner
 	* Nog 5 anderen
 * jQuery oplossing in template
 	* jQuery.CookieBar
@@ -72,7 +72,9 @@ Probleem van ongelijke kolommen
 	* Google CDN
 ---
 # HTML 5 Shiv
-* HTML5 elementen voor IE
+* HTML 5 Shiv - HTML5 elementen voor IE
+* Respond.js en Selectivizr
+    * Joomla plugin `superfossil`
 
 ```html
 <mark>
@@ -114,13 +116,17 @@ jQuery("a[href='#top']").click(function() {
 	* github.com/IanLunn/jQuery-Parallax
 	* github.com/stephband/jparallax
 ---
-# Referenties
+## Resources (1/2)
+* https://github.com/renekreijveld/CookieBannerJ25
 * http://www.primebox.co.uk/projects/jquery-cookiebar/
-* https://github.com/liabru/jquery-match-height
-* https://github.com/mattbanks/jQuery.equalHeights
-* https://www.twentronix.com/extensions/cookieconfirm
 * http://cookiecuttr.com/
 * http://www.cookieconsent.com/
+
+---
+## Resources (2/2)
+* http://mustaqsheikh.github.io/plg_superfossil/
+* https://github.com/liabru/jquery-match-height
+* https://github.com/mattbanks/jQuery.equalHeights
 * https://github.com/aFarkas/html5shiv
 * https://github.com/stephband/jparallax
 * https://github.com/IanLunn/jQuery-Parallax

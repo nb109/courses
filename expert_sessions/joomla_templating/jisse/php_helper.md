@@ -10,12 +10,12 @@ class: middle
 * PHP logica makkelijker gemaakt
 
 Voorbeelden
-* Yth (https://github.com/yireo/yth)
+* Yth (@yireo)
 * ThisTemplate (@hans2103)
 
 ---
 # Gebruik van een PHP helper
-* Bestand met PHP klasse
+* Bestand met PHP klasse en daarbinnen PHP methoden
 * Aanroep vanuit template
 
 ---
@@ -34,12 +34,30 @@ class MyHelper
 ```
 
 ---
-# Gebruik van de PHP helper
+# Aanroep vanuit template
 templates/mytemplate/index.php
 ```php
 require_once __DIR__ . '/helper.php';
 $helper = new MyHelper();
 $helper->doSomething();
+```
+
+```php
+<div>
+    <?php echo $helper->doSomethingElseAgain(); ?>
+</div>
+```
+
+---
+# Interne variabelen toevoegen
+```php
+public function __construct()
+{
+    $this->doc = JFactory::getDocument();
+    $this->app = JFactory::getApplication();
+    $this->input = $this->app->input;
+    $this->menu = $this->app->getMenu();
+}
 ```
 
 ---
@@ -55,7 +73,9 @@ public function isHome($language = null)
 Gebruik in template:
 ```html
 <?php if ($helper->isHome()) : ?>
-<jdoc:include type="modules" name="homepage" />
+    <div>
+        <jdoc:include type="modules" name="homepage" />
+    </div>
 <?php endif; ?>
 ```
 
@@ -72,7 +92,9 @@ public function isArticle()
 Gebruik in template:
 ```html
 <?php if ($helper->isArticle()) : ?>
-<jdoc:include type="modules" name="article" />
+    <div>
+        <jdoc:include type="modules" name="article" />
+    </div>
 <?php endif; ?>
 ```
 
@@ -118,19 +140,6 @@ Gebruik in template:
 ```
 
 ---
-# Variabelen aan de helper toevoegen
-```php
-public function __construct()
-{
-    // Fetch system variables
-    $this->doc = JFactory::getDocument();
-    $this->app = JFactory::getApplication();
-    $this->input = $this->app->input;
-    $this->menu = $this->app->getMenu();
-}
-```
-
----
 class: code-16
 # Nuttige classes voor de <body>
 ```php
@@ -142,6 +151,7 @@ public function getBodySuffix()
     $classes[] = 'layout-' . $this->input->getCmd('layout', 'default');
     $classes[] = 'item-' . $this->input->getInt('Itemid', 0);
     $classes[] = 'home-' . (int) $this->isHome();
+    $classes[] = 'guest-' . (int) $this->isGuest();
     return implode(' ', $classes);
 }
 ```
@@ -195,3 +205,9 @@ if ($helper->isBlog() $helper->addCss('blog.css');
 
 ---
 # Vragen?
+
+<br><br>
+
+## Resources
+* [Yireo Template Helper](https://github.com/yireo/yth)
+* [@hans2103 ThisTemplate](https://github.com/hans2103/ThisTemplate)

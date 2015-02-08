@@ -12,6 +12,7 @@ class: middle
 ---
 # Welke taken?
 * LESS of SASS compileren naar CSS
+* LESS source map aanmaken
 * CoffeeScript naar JavaScript compileren
 * CSS of JavaScript minifyen
 * Git commits, pushen en pullen
@@ -40,14 +41,16 @@ class: middle
 * TextMate (MacOS)
 ---
 # JavaScript builders
+Node.js gebaseerde tools waarmee op een remote server
+of je eigen desktop, taken uitgevoerd kunnen worden:
 * Grunt
 * Gulp
 ---
 # Image optimizers
 * SmushIt, Kraken.io, PunyPNG
 * Google PageSpeed module
-* DIY (jpegoptim, optipng, pngcrush, etc)
-* WebP (Google + Yireo)
+* Eigen tools (jpegoptim, optipng, pngcrush, etc)
+* WebP (Google + Yireo plugin voor Joomla)
 * CSS Sprites
 ---
 # Browser extensies

@@ -4,7 +4,7 @@ class: middle
 ### <a href="http://twitter.com/hans2103">@hans2103</a>
 
 ---
-background- : url(joomla_templating/hans/bootstrap/bs-image-1.png)
+background-image: url(joomla_templating/hans/bootstrap/bs-image-1.png)
 
 ---
 background-image: url(joomla_templating/hans/bootstrap/bs-image-2.png)

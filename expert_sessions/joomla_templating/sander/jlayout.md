@@ -277,5 +277,6 @@ Found layout: expertsessie.nl/templates/protostar/html/layouts/expertsessie.php
 <br><br>
 
 ## Resources
-- <a href="https://docs.joomla.org/J3.x:Sharing_layouts_across_views_or_extensions_with_JLayout">JLayout Joomla Documentatie</a>
-- <a href="http://magazine.joomla.org/issues/issue-nov-2013/item/1590-jlayout-layouts-improvements-joomla-3-2">JLayout Improvements for Joomla! 3.2 (JCM artikel)</a>
+- [JLayout Joomla Documentatie](https://docs.joomla.org/J3.x:Sharing_layouts_across_views_or_extensions_with_JLayout)
+- [JLayout Improvements for Joomla! 3.2 (JCM artikel)](https://docs.joomla.org/J3.x:Sharing_layouts_across_views_or_extensions_with_JLayout)
+

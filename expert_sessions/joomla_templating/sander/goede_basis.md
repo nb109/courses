@@ -589,4 +589,4 @@ class: code-12
 <br><br>
 
 ## Resources
-- Basis Joomla template voor maatwerk-templates <a href="https://github.com/perfectwebteam/basic-template">https://github.com/perfectwebteam/basic-template</a>
+- Basis Joomla template voor maatwerk-templates [https://github.com/perfectwebteam/basic-template](https://github.com/perfectwebteam/basic-template)

@@ -19,7 +19,7 @@ $slidesetStyle = $slideset->getStyle();
     <link rel="stylesheet" href="css/pwt.css" />
     <link rel="stylesheet" href="css/custom.css" />
   </head>
-  <body style="background: transparent url('images/expert-sessie-joomla-templating.jpg') top center no-repeat">
+  <body class="session-bg">
     <div class="container">
         <div class="title-box">
             <div class="title">

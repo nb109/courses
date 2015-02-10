@@ -1,5 +1,6 @@
 .remark-slides-area {
     background: transparent url(../images/expert-sessie-joomla-templating.jpg) top center no-repeat;
+    background-size: cover;
 }
 
 .remark-slide-container {

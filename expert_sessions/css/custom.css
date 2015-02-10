@@ -1,3 +1,12 @@
+html, body {
+	min-height: 100%;
+}
+
+.session-bg {
+    background: transparent url(../images/expert-sessie-joomla-templating.jpg) top center no-repeat;
+    background-size: cover;
+}
+
 div.container-program {
     color: white;
     background-color: black;

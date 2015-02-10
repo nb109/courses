@@ -9,6 +9,7 @@
 .remark-slide-content {
 	padding: 0em 2em 1em 2em;
 	background: #f3f3f3;
+	background-repeat: no-repeat;
 }
 
 .remark-slide {
@@ -91,4 +92,8 @@ pre .remark-code {
 .center.middle h1 {
 	color: #2c4b71;
 	font-size: 80px;
+}
+
+table {
+	width: 100%;
 }

@@ -16,6 +16,14 @@ background-image: url(joomla_templating/hans/less/less-image-3.png)
 background-image: url(joomla_templating/hans/less/less-image-4.png)
 
 ---
+# Voorbeelden
+De kracht van LESS wordt getoond op de volgende vier sliders. Screenshots van verschillende websites gemaakt met dezelfde template als basis.
+- [11x11plus11.nl](http://11x11plus11.nl)
+- [MarkHenkelman.nl](http://markhenkelman.nl)
+- [Boetels.nl](http://boetels.nl)
+- [Byte.nl](https://www.byte.nl)
+
+---
 background-image: url(joomla_templating/hans/less/less-image-5a.png)
 
 ---
@@ -86,3 +94,5 @@ background-image: url(joomla_templating/hans/less/less-image-24.png)
 ## Resources
 - [Less](http://lesscss.org)
 - [CSS with LESS, JoomlaDagen 2013](http://www.slideshare.net/hans2103/jd13nl-csswithless)
+- [ThisTemplate](https://github.com/hans2103/ThisTemplate)
+- [CodeKit](https://incident57.com/codekit/)

@@ -1,1 +1,6 @@
 - Strong passwords in Joomla 3: User Joomla
+- Remove generator tag
+- Remove Joomla PHP header
+- Protect /administrator with htaccess password
+- Database table prefix
+- htaccess file

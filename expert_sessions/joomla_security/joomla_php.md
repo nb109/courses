@@ -13,8 +13,9 @@ class: middle
 
 ---
 # PHP settings
-* expose_php
-* open_basedir
+* expose_php = 0
+* open_basedir = /home/USERX/domains/DOMAINY
+* register_globals = 0
 
 ---
 # PHP modules

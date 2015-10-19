@@ -1,0 +1,1 @@
+- Strong passwords in Joomla 3: User Joomla

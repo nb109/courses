@@ -1,5 +1,5 @@
 <?php
-class Slideset 
+class Slideset
 {
     protected $data = array();
 
@@ -9,8 +9,16 @@ class Slideset
 
     public function __construct()
     {
-        if(file_exists(__DIR__.'/slides.xml')) {
-            $this->loadXml(__DIR__.'/slides.xml');
+	    if (empty($theme) && !empty($_GET['theme'])) {
+		    $theme = $_GET['theme'];
+	    }
+
+	    if (empty($theme) && !empty($_SERVER['REQUEST_URI'])) {
+		    $theme = $_SERVER['REQUEST_URI'];
+	    }
+
+        if(file_exists(__DIR__.'/'.$theme.'/slides.xml')) {
+            $this->loadXml(__DIR__.'/'.$theme.'/slides.xml');
         }
     }
 
@@ -108,7 +116,7 @@ class Slideshow extends Slideset
                 break;
             }
         }
-            
+
         return true;
     }
 

@@ -1,6 +1,6 @@
 <slidesets>
     <title>Programma</title>
-    <style>expertsession</style>
+    <style>joomla_templating</style>
     <slideset>
         <id>goede_basis</id>
         <file>joomla_templating/sander/goede_basis</file>

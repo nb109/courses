@@ -1,0 +1,58 @@
+<slidesets>
+    <title>Programma</title>
+    <style>joomla_security</style>
+    <slideset>
+        <id>joomla_is_veilig</id>
+        <file>joomla_security/joomla_is_veilig</file>
+        <title>Joomla is veilig!</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_extensions</id>
+        <file>joomla_security/joomla_extensions</file>
+        <title>Joomla Extensies</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_ssl</id>
+        <file>joomla_security/joomla_ssl</file>
+        <title>Joomla SSL</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_php</id>
+        <file>joomla_security/joomla_php</file>
+        <title>Joomla PHP</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_linux</id>
+        <file>joomla_security/joomla_linux</file>
+        <title>Joomla Linux</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_hackers</id>
+        <file>joomla_security/joomla_hackers</file>
+        <title>Joomla Hackers</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_fixing_linux</id>
+        <file>joomla_security/joomla_fixing_linux</file>
+        <title>Joomla Fixing Linux</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_fixing_wachtwoorden</id>
+        <file>joomla_security/joomla_fixing_wachtwoorden</file>
+        <title>Joomla Fixing Wachtwoorden</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_rondvraag</id>
+        <file>joomla_security/joomla_rondvraag</file>
+        <title>Joomla Rondvraag</title>
+        <speaker>.</speaker>
+    </slideset>
+</slidesets>

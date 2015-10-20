@@ -5,7 +5,7 @@ $eventLocation = 'Almere';
 $eventTitle = 'Joomla! Templating - Expert Sessie';
 $eventTag = '<h1>Joomla! Templating<br/><span>Expert Sessie</span></h1>';
 
-require_once 'slide.class.php';
+require_once '../slide.class.php';
 $slideset = new Slideset();
 $slidesetData = $slideset->getData();
 $slidesetTitle = $slideset->getTitle();
@@ -16,8 +16,8 @@ $slidesetStyle = $slideset->getStyle();
   <head>
     <title><?php echo $eventTitle; ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" href="css/pwt.css" />
-    <link rel="stylesheet" href="css/custom.css" />
+    <link rel="stylesheet" href="../css/pwt.css" />
+    <link rel="stylesheet" href="../css/<?php echo $slidesetStyle; ?>.css" />
   </head>
   <body class="session-bg">
     <div class="container">
@@ -34,9 +34,9 @@ $slidesetStyle = $slideset->getStyle();
         <?php foreach($slidesetData as $slideset) : ?>
         <li>
             <?php $title = $slideset['title'] . ' (' . $slideset['speaker']. ')'; ?>
-            <a href="slide.php?id=<?= $slideset['id']; ?>">
-                <?php echo $title; ?>
-            </a>
+	        <a href="../slide.php?theme=<?= $slidesetStyle; ?>&id=<?= $slideset['id']; ?>">
+		        <?php echo $title; ?>
+	        </a>
         </li>
         <?php endforeach; ?>
     </ul>

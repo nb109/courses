@@ -4,3 +4,4 @@
 - Protect /administrator with htaccess password
 - Database table prefix
 - htaccess file
+- Gebruik twitter Joomla 3.4.5

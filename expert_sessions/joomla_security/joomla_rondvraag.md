@@ -25,3 +25,11 @@ class: middle
 class: middle
 # Ach, Joomla 3.4.5 is niet zo belangrijk
 
+---
+class: middle
+# Ik geef altijd mijn eigen account gegevens voor support toegangs
+
+---
+class: middle
+# Test-omgevingen hoef ik niet te updaten
+

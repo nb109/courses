@@ -8,9 +8,27 @@
         <speaker>.</speaker>
     </slideset>
     <slideset>
+        <id>joomla_settings</id>
+        <file>joomla_security/joomla_settings</file>
+        <title>Joomla Settings</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
         <id>joomla_extensions</id>
         <file>joomla_security/joomla_extensions</file>
         <title>Joomla Extensies</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_acl</id>
+        <file>joomla_security/joomla_acl</file>
+        <title>Joomla ACL</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_settings_server</id>
+        <file>joomla_security/joomla_settings_server</file>
+        <title>Joomla Settings Server</title>
         <speaker>.</speaker>
     </slideset>
     <slideset>
@@ -23,6 +41,12 @@
         <id>joomla_php</id>
         <file>joomla_security/joomla_php</file>
         <title>Joomla PHP</title>
+        <speaker>.</speaker>
+    </slideset>
+    <slideset>
+        <id>joomla_ssh_ftp</id>
+        <file>joomla_security/joomla_ssh_ftp</file>
+        <title>Joomla SSH vs FTP</title>
         <speaker>.</speaker>
     </slideset>
     <slideset>

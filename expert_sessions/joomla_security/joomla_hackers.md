@@ -20,6 +20,13 @@ class: middle
     - Foute JavaScript in forum post
 - Cross Site Request Forgery (CSRF)
     - Submit button op site A doet Joomla login
+- Local File Inclusion (LFI)
+- Brute Force Attacks
+
+---
+# Extra exploits
+- Phishing
+- Backdoors
 
 ---
 # Workflow

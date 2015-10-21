@@ -18,4 +18,6 @@ class: middle
 
 ---
 # Geschiedenis van Joomla incidenten
-- @todo
+- Joomla 1.5.18: Admin password change
+- Joomla 1.6|1.7|2.5: Privilege escalation
+- Joomla 3.4.5: ???

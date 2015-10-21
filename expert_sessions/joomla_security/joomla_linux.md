@@ -12,16 +12,28 @@ class: middle
     - Bestanden: Niet 666 maar 644
     - Folders: Niet 777 maar 755
 
-
 ---
 # Firewalls
-- iptables
+- nftables / iptables / ipchains
     - TCP SYN attacks
     - ping flooding
-- Apache mod_security
+- Apache ModSecurity
+
+---
+# Brute force detection
+- DenyHosts
+- Fail2Ban
 
 ---
 # Intrusion detection
+- `auditd`
 - IDS
     - AppArmor
     - SELinux
+- git
+
+---
+# Up to date blijven
+- Shell Shock (bash)
+- Zwakheden in OpenSSL
+- Buffer overflows

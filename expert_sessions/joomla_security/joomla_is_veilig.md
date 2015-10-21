@@ -19,5 +19,7 @@ class: middle
 ---
 # Geschiedenis van Joomla incidenten
 - Joomla 1.5.18: Admin password change
-- Joomla 1.6|1.7|2.5: Privilege escalation
+- Joomla 2.5.X: Privilege escalation
+- Joomla 3.1.4: Unauthorized uploads
+- Joomla 3.2.2: SQL injection
 - Joomla 3.4.5: ???

@@ -112,7 +112,7 @@ class Slideshow extends Slideset
             if($slideset['id'] == $this->id) {
                 $this->file = $slideset['file'];
                 $this->title = $slideset['title'];
-                $this->speaker = $slideset['speaker'];
+	            $this->speaker = (isset($slideset['speaker'])) ? $slideset['speaker'] : '';
                 break;
             }
         }

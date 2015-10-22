@@ -2,24 +2,32 @@
     <title>Programma</title>
     <style>joomla_security</style>
     <slideset>
+        <id>welkom</id>
+        <title>- Welkom -</title>
+    </slideset>
+    <slideset>
         <id>01_joomla_veilig</id>
         <file>joomla_security/01_joomla_veilig</file>
-        <title>Ja, Joomla is veilig! Weg met de vooroordelen!</title>
+        <title>Ja, Joomla is veilig!</title>
     </slideset>
     <slideset>
         <id>02_settings_extensions</id>
         <file>joomla_security/02_settings_extensions</file>
-        <title>Joomla-instellingen en veiligheids-extensies</title>
+        <title>Veilige website</title>
     </slideset>
     <slideset>
         <id>03_htaccess_ssl_hosting_ssh</id>
         <file>joomla_security/03_htaccess_ssl_hosting_ssh</file>
-        <title>Gebruik van .htaccess, SSL-certificaten, SSH (hosting)</title>
+        <title>Veilige server</title>
     </slideset>
     <slideset>
         <id>04_onderhoud_monitoring</id>
         <file>joomla_security/04_onderhoud_monitoring</file>
-        <title>Onderhoud en monitoren van Joomla-sites</title>
+        <title>Onderhoud &amp; monitoring</title>
+    </slideset>
+    <slideset>
+        <id>pauze</id>
+        <title>- Pauze -</title>
     </slideset>
     <slideset>
         <id>05_joomla_hackers</id>
@@ -29,11 +37,15 @@
     <slideset>
         <id>06_hack_opschonen</id>
         <file>joomla_security/06_hack_opschonen</file>
-        <title>Toch een gehackte Joomla-site? Wat nu?</title>
+        <title>Toch gehackt?</title>
     </slideset>
     <slideset>
         <id>07_hack_mij</id>
         <file>joomla_security/07_hack_mij</file>
-        <title>Ik wil een gehackte Joomla-site!</title>
+        <title>Ik wil een gehackte site!</title>
+    </slideset>
+    <slideset>
+        <id>borrel</id>
+        <title>- Afsluitende borrel -</title>
     </slideset>
 </slidesets>

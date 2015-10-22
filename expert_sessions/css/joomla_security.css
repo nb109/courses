@@ -12,6 +12,20 @@ div.container-program {
     color: white;
     background-color: black;
     opacity: 0.7;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+}
+
+div.container-program ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+div.container-program li {
+    line-height: 1.8;
+    font-size: 22px;
 }
 
 div.container a {
@@ -27,10 +41,12 @@ div.title-box {
 
 div.title-box h1 {
     font-size: 360%;
+    text-shadow: rgba(0,0,0,.85) 0 0 14px;
 }
 
 div.title-box p {
     font-size: 160%;
+    text-shadow: rgba(0,0,0,.85) 0 0 14px;
 }
 
 .remark-slide-container {
@@ -43,6 +59,14 @@ div.title-box p {
 }
 
 .remark-slide {
+}
+
+.remark-fading {
+    display: none;
+}
+
+.remark-slide-scaler {
+    box-shadow: none;
 }
 
 .remark-slide-number {
@@ -150,4 +174,15 @@ table {
 
 .size-20 {
     font-size: 20px;
+}
+
+.intro {
+    background: inherit;
+}
+
+.intro.center.middle h1,
+.intro.center.middle h2,
+.intro.center.middle h3 {
+    text-shadow: rgba(0,0,0,.85) 0 0 14px;
+    color: #fff;
 }

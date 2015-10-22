@@ -1,7 +1,6 @@
-class: middle
+class: middle, center, intro
 # Ja, Joomla is veilig!
 ## Weg met de vooroordelen!
-### door: Jisse
 
 ---
 # Vooroordelen

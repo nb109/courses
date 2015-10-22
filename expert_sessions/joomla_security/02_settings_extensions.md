@@ -1,7 +1,6 @@
-class: middle
-# Joomla settings
-## Joomla Security
-### door: Sander
+class: middle, center, intro
+# Joomla-instellingen
+## Gebruik maken van de core-opties
 
 ---
 # User `admin` met pass `admin`
@@ -40,7 +39,6 @@ class: middle
 # Foutrapportage
 @TODO: screenshot
 
-
 ---
 # Generator tag
 `Systeem` &#10148; `Algemene instellingen` &#10148; `Toon Joomla versie` op `Ja`:
@@ -57,7 +55,7 @@ $this->setGenerator(null);
 ```
 
 ---
-# Extensies
+# Gebruik van extensies
 * Gebruik testomgeving voor testen
 * Verwijder ongebruikte extensies (sorteer op ID)
 * Beperk extensies tot noodzakelijke, verdiep in template overrides
@@ -65,16 +63,10 @@ $this->setGenerator(null);
 
 
 
-
-
-
-
-
 ---
-class: middle
-# Joomla extensies
-## Joomla Security
-### door: Jisse
+class: middle, center, intro
+# Joomla-extensies
+## Voor verhogen van de veiligheid
 
 ---
 # Veilige admin URL
@@ -107,17 +99,10 @@ http://JOOMLA/administrator?i3ts_v3iligs
 
 
 
-
-
-
-
-
-
 ---
-class: middle
+class: middle, center, intro
 # Joomla ACL
-## Joomla Security
-### door: Sander
+## Specifieke gebruikerstoegang
 
 ---
 # ACL?
@@ -126,11 +111,16 @@ class: middle
 * Sinds Joomla 1.6 volledig instelbaar
 
 ---
-# Waarom gebruiken
-* Alleen toegang tot noodzakelijk
+# Waarom gebruiken?
+* Alleen toegang tot wat noodzakelijk is
 * Gebruiksvriendelijk
 * Voorkom veiligheidsproblemen
 
 ---
 # Toegang tot enkel component
 @TODO: video opzetten ACL
+
+---
+# Twee gebruikersaccounts
+* Voor noodgevallen & ontevreden met webbouwer
+* Voor dagelijks gebruik

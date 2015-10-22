@@ -1,12 +1,40 @@
-class: center, middle
-# Server settings
-## Joomla Security
-### door: Sander
+class: center, middle, intro
+# Server-instellingen
+## Via de server de veiligheid verhogen
 
 ---
 # Database prefix
-* Nieuwe installaties = random
-* Oude installaties soms nog `jos_` = aanpassen
+* Nieuwe installaties = random @TODO screenshot
+* Nog `jos_` als prefix? Pas dit aan!
+* @TODO: 3.4.5 hack voorkomen!
+
+---
+# Verwijder onnodige bestanden
+Bestanden die Joomla niet gebruikt en eenvoudig oproepbaar zijn via `www.expertsessie.nl/joomla.xml`
+```
+/CHANGELOG.php
+/configuration.php-dist
+/COPYRIGHT.php
+/CREDITS.php
+/htaccess.txt
+/joomla.xml
+/LICENSE.txt
+/LICENSE.php
+/README.txt
+/robots.txt.dist
+/web.config.txt
+```
+
+---
+# Bestanden met `phpinfo();`
+* Verwijder en gebruik geen bestanden die PHP-info tonen
+* Vaak `php.php`, `phpinfo.php`, etc...
+
+--
+
+* Informatie is via Joomla opvraagbaar:
+<img src="joomla_security/images/phpinfo.png"/>
+<span class="size-20">Locatie: `Systeem` &#10148; `Systeeminformatie` &#10148; `PHP informatie`</span>
 
 ---
 # Backend .htaccess - IP's toestaan
@@ -38,8 +66,13 @@ http://www.htaccesstools.com/htpasswd-generator/
 
 ---
 # Frontend .htaccess
-* zelf doen
-* via extensie als Admin Tools
+Niet alleen voor SEF-url's en snelheid. Ook voor veiligheid!
+
+--
+
+Twee opties:
+* Zelf samenstellen
+* Genereren via extensie als Admin Tools
 
 ---
 # Frontend .htaccess zelf doen (1)
@@ -111,7 +144,8 @@ RewriteRule ^administrator/ - [F]
 ```
 
 ---
-# Frontend .htaccess - meer info
+# Frontend .htaccess zelf doen (4)
+Voorbeelden van .htaccess bestanden voor Joomla:
 * https://docs.joomla.org/Htaccess_examples_(security)
 * https://github.com/nikosdion/master-htaccess/blob/master/htaccess.txt
 
@@ -120,39 +154,11 @@ RewriteRule ^administrator/ - [F]
 @TODO Screenshot
 
 
----
-# Verwijder onnodige bestanden
-```
-/CHANGELOG.php
-/configuration.php-dist
-/COPYRIGHT.php
-/CREDITS.php
-/htaccess.txt
-/joomla.xml
-/LICENSE.txt
-/LICENSE.php
-/README.txt
-/robots.txt.dist
-/web.config.txt
-```
 
 ---
-# phpinfo()
-* verwijder van server
-* kan gewoon via Joomla
-
-
-
-
-
-
-
-
----
-class: middle
-# SSL certificaten
-## Joomla Security
-### door: Jisse
+class: center, middle, intro
+# SSL-certificaten
+## Is dat veiliger? Hoe werkt dat precies?
 
 ---
 # SSL met Joomla sites
@@ -202,17 +208,10 @@ Lange lijst: https://www.openssl.org/news/vulnerabilities.html
 
 
 
-
-
-
-
-
-
 ---
-class: middle
-# PHP instellingen
-## Joomla Security
-### door: Jisse
+class: center, middle, intro
+# PHP-instellingen
+## Juiste PHP-instellingen voor Joomla
 
 ---
 # Eventjes over PHP versies
@@ -235,76 +234,76 @@ class: middle
 
 
 
-
-
-
+---
+class: center, middle, intro
+# FTP, FTPS, SFTP &amp; SSH
+## (of: een veilige verbinding met de server)
 
 ---
-class: middle
-# SSH vs FTP
-## Joomla Security
-### door: Sander
-
----
-# FTP
-FTP: File Transfer Protocol
-@TODO afbeelding
+# FTP: File Transfer Protocol
+<img src="joomla_security/images/ftp.png"/>
 
 ---
 # FTP
-Voordelen
+### Voordelen
 * Gebruiksvriendelijk
 * Compatibiliteit met derden
 
-Nadelen
+### Nadelen
 * Onveilig (geen encryptie, wachtwoord op straat)
 * Geeft vaak problemen met firewalls
 
 ---
-# FTPS - FTP over SSL
-@TODO afbeelding
+# FTPS: FTP Secure
+<img src="joomla_security/images/ftps.png"/>
 
 ---
-# FTPS
-Voordelen
+# FTPS - FTP over SSL
+### Voordelen
 * Veiliger dan FTP
 * Eenvoudige controle over toegangsrechten
 
-Nadelen
+### Nadelen
 * SSL Certificaat vereist
 * Geeft vaak problemen met firewalls
 
 ---
-# SFTP - FTP over SSH
-SFTP:  Secure File Transfer Protocol
-@TODO afbeelding
+# SFTP: Secure File Transfer Protocol
+<img src="joomla_security/images/sftp.png"/>
 
 ---
-# SFTP
-Voordelen
+# SFTP - FTP over SSH
+### Voordelen
 * Veiligste oplossing
 * Geen problemen met firewalls
 * Geen SSL certificaat nodig
 
-Nadelen
+### Nadelen
 * Controle over toegangsrechten complexer
 * SSH toegang nodig van je hoster
 
 ---
-# SSH
-SSH: Secure Shell Protocol
+# SSH: Secure Shell Protocol
+Authenticatie met een publiek/geheim sleutelpaar (public/private key)
 
+--
 
+### SSH (shell) keys werken als een soort slot en sleutel 
+* De Public Key (het slot) - plaats je op de SSH Shell `id_rsa_pub`
+* Private Key (sleutel) - sla je op je computer op `id_rsa`
 
+<img src="joomla_security/images/ssh-key.png"/>
 
+--
+
+### Informeer bij je webhost voor juiste procedure
 
 
 
 ---
-class: middle
-# Linux hosting
-## Joomla Security
-### door: Jisse
+class: center, middle, intro
+# Linux-hosting
+## Waar op letten met hosting?
 
 ---
 # Het probleem van shared hosting

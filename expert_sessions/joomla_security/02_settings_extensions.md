@@ -40,6 +40,17 @@ class: middle, center, intro
 @TODO: screenshot
 
 ---
+# Secret key
+Wat is eigenlijk die secret key in `configuration.php`:
+```php
+public $secret = 'pIRRJDXCsdUb21wj3I';
+```
+
+--
+* Wordt gebruikt voor Joomla interne veiligheid, o.a. voor sessies. 
+* Kan aangepast worden, al verlopen bestaande sessies dan
+
+---
 # Generator tag
 `Systeem` &#10148; `Algemene instellingen` &#10148; `Toon Joomla versie` op `Ja`:
 ```html

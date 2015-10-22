@@ -1,7 +1,6 @@
-class: middle
-# Hoe denkt een hacker?
-## Joomla Security
-### door: Jisse
+class: center, middle, intro
+# Hacker technieken
+## Hoe denkt een hacker?
 
 ---
 # Doelen

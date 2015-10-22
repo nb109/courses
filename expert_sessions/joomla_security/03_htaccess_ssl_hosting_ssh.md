@@ -140,3 +140,203 @@ RewriteRule ^administrator/ - [F]
 # phpinfo()
 * verwijder van server
 * kan gewoon via Joomla
+
+
+
+
+
+
+
+
+---
+class: middle
+# SSL certificaten
+## Joomla Security
+### door: Jisse
+
+---
+# SSL met Joomla sites
+- SSL certificaat
+    - SSL certificate authority
+    - SSL certificate chain
+- Server support voor SSL
+- Eigen IP adres
+
+---
+# SSL certificaat
+- Verificatie van eigenaar
+    - Controle KvK, adres, bankgegevens
+    - Extended Validation (EV)
+- RSA key-pair (2048 bits)
+- Protocollen
+    - Verouderd: SSLv2, SSLv3
+    - Modern: TLSv1.0, TLSv1.1, TLSv1.2
+- SSL ciphers
+
+---
+# OpenSSL problemen
+- Heartbleed
+- Poodle
+- PRNG zwakheden
+
+Lange lijst: https://www.openssl.org/news/vulnerabilities.html
+
+---
+# SSL op alle paginas?
+- Yireo SSLRedirect
+- Google waardeert SSL meer dan non-SSL
+- HTTP Strict Transport Security (HSTS)
+
+---
+# SSL online checks
+- https://www.sslcheck.nl/
+- https://www.ssllabs.com/ssltest/
+- https://www.sslchecker.com/
+
+---
+# Tip: Test browsers
+- Test SSL support in alle browsers
+    - https://www.browserstack.com/
+- Zorg bij iedere SSL site voor TLSv1.2
+- Laat SSL ciphers aan hoster over
+
+
+
+
+
+
+
+
+
+---
+class: middle
+# PHP instellingen
+## Joomla Security
+### door: Jisse
+
+---
+# Eventjes over PHP versies
+- PHP 5.3 is stokoud
+- PHP 5.4 is sinds september obsolete
+- PHP 5.5 werkt gewoon
+- PHP 5.6 is sneller
+- PHP 7 is retesnel
+
+---
+# PHP settings
+* expose_php = 0
+* open_basedir = /home/USERX/domains/DOMAINY
+* register_globals = 0
+
+---
+# PHP modules
+* mod_security
+* Suhosin
+
+
+
+
+
+
+
+---
+class: middle
+# SSH vs FTP
+## Joomla Security
+### door: Sander
+
+---
+# FTP
+FTP: File Transfer Protocol
+@TODO afbeelding
+
+---
+# FTP
+Voordelen
+* Gebruiksvriendelijk
+* Compatibiliteit met derden
+
+Nadelen
+* Onveilig (geen encryptie, wachtwoord op straat)
+* Geeft vaak problemen met firewalls
+
+---
+# FTPS - FTP over SSL
+@TODO afbeelding
+
+---
+# FTPS
+Voordelen
+* Veiliger dan FTP
+* Eenvoudige controle over toegangsrechten
+
+Nadelen
+* SSL Certificaat vereist
+* Geeft vaak problemen met firewalls
+
+---
+# SFTP - FTP over SSH
+SFTP:  Secure File Transfer Protocol
+@TODO afbeelding
+
+---
+# SFTP
+Voordelen
+* Veiligste oplossing
+* Geen problemen met firewalls
+* Geen SSL certificaat nodig
+
+Nadelen
+* Controle over toegangsrechten complexer
+* SSH toegang nodig van je hoster
+
+---
+# SSH
+SSH: Secure Shell Protocol
+
+
+
+
+
+
+
+---
+class: middle
+# Linux hosting
+## Joomla Security
+### door: Jisse
+
+---
+# Het probleem van shared hosting
+- Alle home-folders moeten leesbaar zijn
+    - Uitlezen van wachtwoorden relatief makkelijk
+- Vermijd goedkope hosters
+- Pas op voor bestandspermissies
+    - Bestanden: Niet 666 maar 644
+    - Folders: Niet 777 maar 755
+
+---
+# Firewalls
+- nftables / iptables / ipchains
+    - TCP SYN attacks
+    - ping flooding
+- Apache ModSecurity
+
+---
+# Brute force detection
+- DenyHosts
+- Fail2Ban
+
+---
+# Intrusion detection
+- `auditd`
+- IDS
+    - AppArmor
+    - SELinux
+- git
+
+---
+# Up to date blijven
+- Shell Shock (bash)
+- Zwakheden in OpenSSL
+- Buffer overflows

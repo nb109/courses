@@ -36,6 +36,10 @@ class: middle
 ---
 # 2-Factor-authentication
 
+---
+# Foutrapportage
+@TODO: screenshot
+
 
 ---
 # Generator tag
@@ -58,3 +62,75 @@ $this->setGenerator(null);
 * Verwijder ongebruikte extensies (sorteer op ID)
 * Beperk extensies tot noodzakelijke, verdiep in template overrides
 * Installeer alleen van betrouwbare bron
+
+
+
+
+
+
+
+
+---
+class: middle
+# Joomla extensies
+## Joomla Security
+### door: Jisse
+
+---
+# Veilige admin URL
+```
+http://JOOMLA/administrator?i3ts_v3iligs
+```
+* Akeeba Admin Tools Pro
+* kSecure
+* jSecure
+* AdminExile
+
+---
+# PHP filtering
+* Marcos SQL Injection
+* RSFirewall
+* JomDefender
+* SecurityCheck
+* jHackGuard
+* OSE Secure
+
+---
+# Anders extensies
+- Brute Force Stop
+- R Antispam
+- SEF extensies
+    - JoomSEF
+    - sh404SEF
+- Yireo Dynamic404
+- Yireo HTTP Authentication
+
+
+
+
+
+
+
+
+
+---
+class: middle
+# Joomla ACL
+## Joomla Security
+### door: Sander
+
+---
+# ACL?
+* Access Control List
+* Wie kan wat?
+* Sinds Joomla 1.6 volledig instelbaar
+
+---
+# Waarom gebruiken
+* Alleen toegang tot noodzakelijk
+* Gebruiksvriendelijk
+* Voorkom veiligheidsproblemen
+
+---
+# Toegang tot enkel component
+@TODO: video opzetten ACL

@@ -33,9 +33,8 @@ $slidesetStyle = $slideset->getStyle();
     <ul>
         <?php foreach($slidesetData as $slideset) : ?>
         <li>
-            <?php $title = $slideset['title'] . ' (' . $slideset['speaker']. ')'; ?>
             <a href="../slide.php?theme=<?= $slidesetStyle; ?>&id=<?= $slideset['id']; ?>">
-                <?php echo $title; ?>
+                <?php echo $slideset['title']; ?>
             </a>
         </li>
         <?php endforeach; ?>

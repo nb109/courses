@@ -2,81 +2,38 @@
     <title>Programma</title>
     <style>joomla_security</style>
     <slideset>
-        <id>joomla_is_veilig</id>
-        <file>joomla_security/joomla_is_veilig</file>
-        <title>Joomla is veilig!</title>
-        <speaker>.</speaker>
+        <id>01_joomla_veilig</id>
+        <file>joomla_security/01_joomla_veilig</file>
+        <title>Ja, Joomla is veilig! Weg met de vooroordelen!</title>
     </slideset>
     <slideset>
-        <id>joomla_settings</id>
-        <file>joomla_security/joomla_settings</file>
-        <title>Joomla Settings</title>
-        <speaker>.</speaker>
+        <id>02_settings_extensions</id>
+        <file>joomla_security/02_settings_extensions</file>
+        <title>Joomla-instellingen en veiligheids-extensies</title>
     </slideset>
     <slideset>
-        <id>joomla_extensions</id>
-        <file>joomla_security/joomla_extensions</file>
-        <title>Joomla Extensies</title>
-        <speaker>.</speaker>
+        <id>03_htaccess_ssl_hosting_ssh</id>
+        <file>joomla_security/03_htaccess_ssl_hosting_ssh</file>
+        <title>Gebruik van .htaccess, SSL-certificaten, SSH (hosting)</title>
     </slideset>
     <slideset>
-        <id>joomla_acl</id>
-        <file>joomla_security/joomla_acl</file>
-        <title>Joomla ACL</title>
-        <speaker>.</speaker>
+        <id>04_onderhoud_monitoring</id>
+        <file>joomla_security/04_onderhoud_monitoring</file>
+        <title>Onderhoud en monitoren van Joomla-sites</title>
     </slideset>
     <slideset>
-        <id>joomla_settings_server</id>
-        <file>joomla_security/joomla_settings_server</file>
-        <title>Joomla Settings Server</title>
-        <speaker>.</speaker>
+        <id>05_joomla_hackers</id>
+        <file>joomla_security/05_joomla_hackers</file>
+        <title>Hacker technieken?</title>
     </slideset>
     <slideset>
-        <id>joomla_ssl</id>
-        <file>joomla_security/joomla_ssl</file>
-        <title>Joomla SSL</title>
-        <speaker>.</speaker>
+        <id>06_hack_opschonen</id>
+        <file>joomla_security/06_hack_opschonen</file>
+        <title>Toch een gehackte Joomla-site? Wat nu?</title>
     </slideset>
     <slideset>
-        <id>joomla_php</id>
-        <file>joomla_security/joomla_php</file>
-        <title>Joomla PHP</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_ssh_ftp</id>
-        <file>joomla_security/joomla_ssh_ftp</file>
-        <title>Joomla SSH vs FTP</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_linux</id>
-        <file>joomla_security/joomla_linux</file>
-        <title>Joomla Linux</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_hackers</id>
-        <file>joomla_security/joomla_hackers</file>
-        <title>Joomla Hackers</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_fixing_linux</id>
-        <file>joomla_security/joomla_fixing_linux</file>
-        <title>Joomla Fixing Linux</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_fixing_wachtwoorden</id>
-        <file>joomla_security/joomla_fixing_wachtwoorden</file>
-        <title>Joomla Fixing Wachtwoorden</title>
-        <speaker>.</speaker>
-    </slideset>
-    <slideset>
-        <id>joomla_rondvraag</id>
-        <file>joomla_security/joomla_rondvraag</file>
-        <title>Joomla Rondvraag</title>
-        <speaker>.</speaker>
+        <id>07_hack_mij</id>
+        <file>joomla_security/07_hack_mij</file>
+        <title>Ik wil een gehackte Joomla-site!</title>
     </slideset>
 </slidesets>

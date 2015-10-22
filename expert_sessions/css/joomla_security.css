@@ -57,6 +57,17 @@ div.title-box p {
     background: #f3f3f3;
     background-repeat: no-repeat;
 }
+.remark-slide table {
+    font-size: 23px;
+}
+
+.remark-slide table tr {
+    border-bottom: 1px solid #ccc;
+}
+
+.remark-slide table td {
+    padding-right: 10px;
+}
 
 .remark-slide {
 }

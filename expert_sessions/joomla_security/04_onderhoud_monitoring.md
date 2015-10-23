@@ -5,7 +5,7 @@ class: center, middle, intro
 ---
 # Waarom onderhoud?
 * Meeste hacks vinden plaats bij verouderde sites
-* Joomla alleen is niet voldoende
+* Alleen Joomla updaten is niet voldoende
 * Juist ook extensies bijhouden
 
 ---

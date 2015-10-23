@@ -10,9 +10,8 @@ class: center, middle, intro
 
 ---
 # Waarom monitoring?
-* Website up?
-* Actief bijhouden van mogelijke gevaren
-* Fijn als je eerder dan klant weet dat website down is
+* Website up? Fijn als je dit eerder dan je klant weet!
+* Actief scannen van mogelijke gevaren
 
 ---
 # Tools voor meerdere sites
@@ -27,23 +26,15 @@ class: center, middle, intro
 * MyJoomla (https://myjoomla.com)
 
 ---
-# Watchful
-<img src="joomla_security/images/watchful.png"/>
-
----
-# Watchful - Update
-<div class="player">
-    <video controls>
-        <source src="joomla_security/videos/watchful-updates.mp4" type="video/mp4">
-    </video>
-</div>
-
----
 # MyJoomla
 <img src="joomla_security/images/myjoomla.png"/>
 
 ---
-# MyJoomla - Overview
+# MyJoomla - Dashboard
+<img src="joomla_security/images/myjoomla-dashboard.jpg"/>
+
+---
+# MyJoomla - Site overview
 <div class="player">
     <video controls>
         <source src="joomla_security/videos/myjoomla-overview.mp4" type="video/mp4">
@@ -59,11 +50,40 @@ class: center, middle, intro
 </div>
 
 ---
+# Watchful
+<img src="joomla_security/images/watchful.png"/>
+
+---
+# Watchful - Online Demo
+https://watchful.li/app/#/dashboard
+
+---
+# Watchful - Update
+<div class="player">
+    <video controls>
+        <source src="joomla_security/videos/watchful-updates.mp4" type="video/mp4">
+    </video>
+</div>
+
+---
+# Watchful - Remote Installer
+<div class="player">
+    <video controls>
+        <source src="joomla_security/videos/watchful-remote-installer.mp4" type="video/mp4">
+    </video>
+</div>
+
+
+---
 # MyJoomla vs Watchful
 <table>
   <tr>
     <th>MyJoomla (Appels)</th>
     <th>Watchful (Peren)</th> 
+  </tr>
+  <tr>
+    <td><strong>Sterk:</strong> Automatische backups &amp; uptime monitoring</td>
+    <td><strong>Sterk:</strong> Automatische backups &amp; uptime monitoring</td> 
   </tr>
   <tr>
     <td><strong>Sterk:</strong> Security Audits inhoudelijk gedetaileerd</td>

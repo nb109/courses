@@ -99,7 +99,7 @@ http://JOOMLA/administrator?i3ts_v3iligs
 * OSE Secure
 
 ---
-# Anders extensies
+# Andere extensies
 - Brute Force Stop
 - R Antispam
 - SEF extensies

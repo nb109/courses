@@ -2,7 +2,8 @@
     <title>Programma</title>
     <style>joomla_security</style>
     <slideset>
-        <id>welkom</id>
+        <id>00_welkom</id>
+        <file>joomla_security/00_welkom</file>
         <title>- Welkom -</title>
     </slideset>
     <slideset>

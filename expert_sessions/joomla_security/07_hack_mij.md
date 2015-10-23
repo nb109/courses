@@ -62,3 +62,20 @@ class: middle, center, intro
 ---
 class: middle, center, intro
 # "Een wachtwoord op mijn mobiel en tablet is onhandig."
+
+---
+class: middle, center, intro
+# Kortingscoupons
+
+---
+### Watchful 
+`PWEXPERT20` 20% off anything, will only work once per account
+### MyJoomla 
+`PERFECTWEBTEAM` this gets GBP5 per month off the £19.99 fee
+### Akeeba Admin Tools Pro 
+`JSESFXT8WE` gives 20% discount to every subscription that includes Admin Tools
+### ACL Manager 
+`EXPERTSESSIE` 25% korting op subscription
+### Yireo 
+`EXPERTSESSIE` 25% korting op subscription
+

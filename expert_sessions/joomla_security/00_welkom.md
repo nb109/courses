@@ -26,3 +26,7 @@ class: middle, center, intro
  
 ---
 # Hoe kon ik dit voorkomen?
+- Op tijd uitloggen uit backend
+- Veilige database table prefix gebruiken
+- Sessies opslaan in Redis of memcached
+- Error pagina (`error.php`) aanpassen

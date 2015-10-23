@@ -149,7 +149,11 @@ class: middle, center, intro
 
 ---
 # Toegang tot enkel component
-@TODO: video opzetten ACL
+<div class="player">
+    <video controls>
+        <source src="joomla_security/videos/joomla_acl.mp4" type="video/mp4">
+    </video>
+</div>
 
 ---
 # Twee gebruikersaccounts

@@ -4,7 +4,7 @@ class: middle, center, intro
 
 ---
 # Yireo
-Iets over Yireo
+<img src="joomla_security/images/yireo.png" />
 
 ---
 # Perfect Web Team

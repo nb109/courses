@@ -30,6 +30,13 @@ class: center, middle, intro
 <img src="joomla_security/images/myjoomla.png"/>
 
 ---
+# MyJoomla
+* Leer snel een nieuwe site kennen:
+* Best practices
+* Core hacks?
+* Verdachte bestanden/code
+
+---
 # MyJoomla - Dashboard
 <img src="joomla_security/images/myjoomla-dashboard.jpg"/>
 
@@ -52,6 +59,13 @@ class: center, middle, intro
 ---
 # Watchful
 <img src="joomla_security/images/watchful.png"/>
+
+---
+# Watchful
+* Onderhoud overzicht
+* Update notificaties
+* Makkelijk en selectief alles updaten
+* Tijdsbesparing
 
 ---
 # Watchful - Online Demo

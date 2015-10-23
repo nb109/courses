@@ -21,4 +21,4 @@ class: middle, center, intro
 - Joomla 2.5.X: Privilege escalation
 - Joomla 3.1.4: Unauthorized uploads
 - Joomla 3.2.2: SQL injection
-- Joomla 3.4.5: ???
+- Joomla 3.4.5: SQL injection

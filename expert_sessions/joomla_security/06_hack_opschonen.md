@@ -153,11 +153,23 @@ class: center, middle, intro
 * Controleer op vreemde gebruikers
 * Vereis aanpassen van wachtwoord
 
-
 ---
 class: center, middle, intro
 # En nu?
 ## In de toekomst voorkomen!
 
 ---
-# Geen slides Jisse?
+# Bassale veiligheid
+- Wachtwoorden
+- Instellingen Joomla
+- Template code
+- Bestanden verwijderen
+- `.htaccess`
+
+---
+# Continue aandacht
+- Updates van core en extensies
+- Admin Tools Pro, Marco SQL Injection Plugin
+- Up to date blijven met PHP, Apache, MySQL
+- Controle op Super Users
+- Weet wat er speelt binnen Joomla

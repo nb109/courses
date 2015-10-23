@@ -39,7 +39,7 @@ class: center, middle, intro
 
 ---
 # Dweilen met de kraan open
-
+@TODO image
 
 ---
 # Uitlezen access logs (1)

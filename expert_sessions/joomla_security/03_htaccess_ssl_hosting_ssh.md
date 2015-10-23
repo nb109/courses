@@ -4,9 +4,8 @@ class: center, middle, intro
 
 ---
 # Database prefix
-* Nieuwe installaties = random @TODO screenshot
+* Nieuwe installaties, random
 * Nog `jos_` als prefix? Pas dit aan!
-* @TODO: 3.4.5 hack voorkomen!
 
 ---
 # Verwijder onnodige bestanden

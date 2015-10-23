@@ -34,10 +34,12 @@ class: middle, center, intro
 
 ---
 # 2-Factor-authentication
+@TODO image
 
 ---
 # Foutrapportage
-@TODO: screenshot
+<img src="joomla_security/images/settings-foutrapportage.png"/>
+<span class="size-20">Locatie: `Systeem` &#10148; `Algemene instellingen` &#10148; `Server` &#10148; `Foutrapportage` op `Geen`</span>
 
 ---
 # Secret key
@@ -67,11 +69,14 @@ $this->setGenerator(null);
 
 ---
 # Gebruik van extensies
-* Gebruik testomgeving voor testen
-* Verwijder ongebruikte extensies (sorteer op ID)
-* Beperk extensies tot noodzakelijke, verdiep in template overrides
+* Gebruik testomgeving
+* Beperk extensies tot noodzakelijke, verdiep in bijv template overrides
 * Installeer alleen van betrouwbare bron
+* Verwijder ongebruikte extensies (sorteer op ID)
 
+--
+
+<img src="joomla_security/images/extensiebeheer.png"/>
 
 
 ---

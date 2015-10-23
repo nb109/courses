@@ -33,8 +33,23 @@ class: middle, center, intro
 <span class="size-20">Locatie: `Systeem` &#10148; `Algemene instellingen` &#10148; `Gebruikers`</span>
 
 ---
-# 2-Factor-authentication
-@TODO image
+# 2-Factor-authentication (1)
+<img src="joomla_security/images/2factor-plugin.png"/>
+<span class="size-20">Locatie: `Extensies` &#10148; `Plugin` &#10148; `Authenticatie in twee stappen`</span>
+
+---
+# 2-Factor-authentication (2)
+<img src="joomla_security/images/2factor-user.png"/>
+
+---
+# 2-Factor-authentication (3)
+<img src="joomla_security/images/2factor-user2.png"/>
+<span class="size-20">Locatie: `Gebruikers` &#10148; `Beheren` &#10148; `Bewerk een gebruiker`</span>
+
+---
+# 2-Factor-authentication (4)
+<img src="joomla_security/images/2factor-login.png"/>
+
 
 ---
 # Foutrapportage

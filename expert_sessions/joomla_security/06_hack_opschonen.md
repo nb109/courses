@@ -39,7 +39,7 @@ class: center, middle, intro
 
 ---
 # Dweilen met de kraan open
-@TODO image
+<img src="joomla_security/images/dweilen.png"/>
 
 ---
 # Uitlezen access logs (1)
@@ -86,7 +86,7 @@ Geeft:
 
 ---
 # Meer info
-* https://www.byte.nl/kennisbank/item/schadelijke_bestanden_opsporen
+https://www.byte.nl/kennisbank/item/schadelijke_bestanden_opsporen
 
 
 ---
@@ -116,7 +116,7 @@ class: center, middle, intro
     - Kies periodiek nieuw wachtwoord
     
 ---
-# Wachtwoord niet zelf kiezen is beter
+# Wachtwoord NIET kiezen is beter
 Maak gebruik van password-manager tools als:
 * 1Password (https://agilebits.com/onepassword)
 * LastPass (https://lastpass.com/nl/)

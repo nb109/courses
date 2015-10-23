@@ -4,7 +4,7 @@ class: center, middle, intro
 
 ---
 # Database prefix
-* Nieuwe installaties, random
+* Nieuwe installaties
 * Nog `jos_` als prefix? Pas dit aan!
 
 ---
@@ -69,11 +69,12 @@ Niet alleen voor SEF-url's en snelheid. Ook voor veiligheid!
 
 --
 
-Twee opties:
+### Twee opties:
 * Zelf samenstellen
 * Genereren via extensie als Admin Tools
 
 ---
+class: code-14
 # Frontend .htaccess zelf doen (1)
 ```
 ########## Begin - Common hacking tools and bandwidth hoggers block
@@ -98,11 +99,12 @@ deny from env=stayout
 ```
 
 ---
+class: code-14
 # Frontend .htaccess zelf doen (2)
 ```
 ########## Begin - Rewrite rules to block out some common exploits
 ## If you experience problems on your site block out the operations listed below
-## This attempts to block the most common type of exploit `attempts` to Joomla!
+## This attempts to block the most common type of exploit attempts to Joomla!
 #
 # If the request query string contains /proc/self/environ (by SigSiu.net)
 RewriteCond %{QUERY_STRING} proc/self/environ [OR]
@@ -125,6 +127,7 @@ RewriteRule .* index.php [F]
 ########## End - Rewrite rules to block out some common exploits
 ```
 ---
+class: code-14
 # Frontend .htaccess zelf doen (3)
 ```
 ## Back-end protection
@@ -150,7 +153,7 @@ Voorbeelden van .htaccess bestanden voor Joomla:
 
 ---
 # Frontend .htaccess Admin Tools
-@TODO Screenshot
+<img src="joomla_security/images/akeeba-htaccess.png"/>
 
 
 

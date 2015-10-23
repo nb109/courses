@@ -82,8 +82,8 @@ https://watchful.li/app/#/dashboard
     <th>Watchful (Peren)</th> 
   </tr>
   <tr>
-    <td><strong>Sterk:</strong> Automatische backups &amp; uptime monitoring</td>
-    <td><strong>Sterk:</strong> Automatische backups &amp; uptime monitoring</td> 
+    <td>Automatische backups &amp; uptime monitoring</td>
+    <td>Automatische backups &amp; uptime monitoring</td> 
   </tr>
   <tr>
     <td><strong>Sterk:</strong> Security Audits inhoudelijk gedetaileerd</td>

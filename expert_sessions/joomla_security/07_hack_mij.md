@@ -77,5 +77,5 @@ class: middle, center, intro
 ### ACL Manager 
 `EXPERTSESSIE` 25% korting op subscription
 ### Yireo 
-`EXPERTSESSIE` 25% korting op subscription
+`expertsessie` 20% korting op extensies
 

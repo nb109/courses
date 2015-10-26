@@ -27,10 +27,6 @@
         <title>Onderhoud &amp; monitoring</title>
     </slideset>
     <slideset>
-        <id>pauze</id>
-        <title>- Pauze -</title>
-    </slideset>
-    <slideset>
         <id>05_joomla_hackers</id>
         <file>joomla_security/05_joomla_hackers</file>
         <title>Hacker technieken</title>

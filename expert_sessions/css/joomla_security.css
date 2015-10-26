@@ -197,6 +197,38 @@ table {
     background: inherit;
 }
 
+.intro:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 150px;
+    width: 300px;
+    display: block;
+    background-image: url(../images/perfectwebteam.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.intro:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 150px;
+    width: 300px;
+    display: block;
+    background-image: url(../images/yireo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.intro .remark-slide-number {
+    display: none;
+}
+
 .intro.center.middle h1,
 .intro.center.middle h2,
 .intro.center.middle h3 {

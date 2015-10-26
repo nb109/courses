@@ -14,6 +14,7 @@ class: center, middle, intro
 - Joomla Anti-Malware Scan Script (JAMSS)
 - RSFirewall
 - jProtection
+- Wemahu
 
 ---
 # Linux commandos

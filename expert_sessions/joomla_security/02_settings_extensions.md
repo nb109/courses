@@ -127,6 +127,7 @@ http://JOOMLA/administrator?i3ts_v3iligs
     - sh404SEF
 - Yireo Dynamic404
 - Yireo HTTP Authentication
+- Wemahu
 
 
 

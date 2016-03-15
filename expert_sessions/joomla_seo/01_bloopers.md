@@ -1,6 +1,6 @@
 class: center, middle, intro
-# Joomla SEO extensies
-## De voor- en nadelen
+# 10 SEO bloopers
+## Inleiding SEO
 
 ---
 # Simon
@@ -10,3 +10,8 @@ class: center, middle, intro
 # Titel van nog een slide
 - item
 - item 2
+
+---
+# Voorbeeld met afbeelding
+<img src="joomla_seo/images/settings-super-users.png">
+Een stukkie tekst met toelichting

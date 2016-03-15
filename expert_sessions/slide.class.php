@@ -13,8 +13,8 @@ class Slideset
 		    $theme = $_GET['theme'];
 	    }
 
-	    if (empty($theme) && !empty($_SERVER['REQUEST_URI'])) {
-		    $theme = $_SERVER['REQUEST_URI'];
+	    if(empty($theme)) {
+		    $theme = basename($_SERVER['REQUEST_URI']);
 	    }
 
         if(file_exists(__DIR__.'/'.$theme.'/slides.xml')) {

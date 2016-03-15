@@ -74,7 +74,7 @@ Bron: http://blog.adstage.io/2013/05/30/how-ignoring-match-types-can-kill-your-p
 ---
 # Kwaliteitsscore
 - Google wijst zoekwoorden een kwaliteitsscore toe
-- Zeer specifieke zoekwoorden die zeer specifiek passen bij een advertentie die zeer specifiek past bij de landingspagina:hoge kwaliteitsscore
+- Zeer specifieke zoekwoorden die zeer specifiek passen bij een advertentie die zeer specifiek past bij de landingspagina: hoge kwaliteitsscore
 - Hoge kwaliteitsscore: Lagere kosten per klik
 - Zo kun je met een goede kwaliteitsscore winnen van hoge bieders
 
@@ -89,6 +89,7 @@ Bron: http://blog.adstage.io/2013/05/30/how-ignoring-match-types-can-kill-your-p
 <img src="joomla_seo/images/adwords-08-hacking-adwords-how-quality-score-impacts-cpc.png />
 
 Bron: http://www.wordstream.com/blog/ws/2014/01/29/hacking-adwords
+
 ---
 # Is het rendabel?
 - Bereken hoeveel een conversie waard is:

@@ -1,0 +1,72 @@
+<slidesets>
+    <title>Programma</title>
+    <style>joomla_seo</style>
+    <slideset>
+        <id>00_welkom</id>
+        <file>joomla_seo/00_welkom</file>
+        <title>- Welkom -</title>
+    </slideset>
+    <slideset>
+        <id>01_bloopers</id>
+        <file>joomla_seo/01_bloopers</file>
+        <title>10 SEO bloopers</title>
+    </slideset>
+    <slideset>
+        <id>02_seo_core</id>
+        <file>joomla_seo/02_seo_core</file>
+        <title>Joomla core SEO optimaliseren</title>
+    </slideset>
+    <slideset>
+        <id>03_seo_extensies</id>
+        <file>joomla_seo/03_seo_extensies</file>
+        <title>Joomla SEO extensies</title>
+    </slideset>
+    <slideset>
+        <id>04_seo_multilingual</id>
+        <file>joomla_seo/04_seo_multilingual</file>
+        <title>Meertaligheid &amp; SEO</title>
+    </slideset>
+    <slideset>
+        <id>05_seo_ssl</id>
+        <file>joomla_seo/05_seo_ssl</file>
+        <title>SSL &amp; SEO</title>
+    </slideset>
+    <slideset>
+        <id>pauze</id>
+        <title>- Pauze -</title>
+    </slideset>
+    <slideset>
+        <id>06_seo_audit</id>
+        <file>joomla_seo/06_seo_audit</file>
+        <title>SEO audit uitvoeren</title>
+    </slideset>
+    <slideset>
+        <id>07_joomla36</id>
+        <file>joomla_seo/07_joomla36</file>
+        <title>Joomla 3.6: router</title>
+    </slideset>
+    <slideset>
+        <id>08_social_media</id>
+        <file>joomla_seo/08_social_media</file>
+        <title>Social Media &amp; SEO</title>
+    </slideset>
+    <slideset>
+        <id>09_seo_performance</id>
+        <file>joomla_seo/09_seo_performance</file>
+        <title>Performance &amp; SEO</title>
+    </slideset>
+    <slideset>
+        <id>10_adwords</id>
+        <file>joomla_seo/10_adwords</file>
+        <title>Adwords</title>
+    </slideset>
+    <slideset>
+        <id>11_afsluiting</id>
+        <file>joomla_seo/11_afsluiting</file>
+        <title>Afsluiting &amp; vragen</title>
+    </slideset>
+    <slideset>
+        <id>borrel</id>
+        <title>- Afsluitende borrel -</title>
+    </slideset>
+</slidesets>

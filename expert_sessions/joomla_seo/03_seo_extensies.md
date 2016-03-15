@@ -11,7 +11,7 @@ class: center, middle, intro
 - Handmatig doen is vaak beter dan automatiseren
 
 ---
-# # Heb je sowieso SEO extensies nodig? Ja!!!
+# Heb je sowieso SEO extensies nodig? Ja!!!
 - Functionaliteit niet beschikbaar
 - Beheer makkelijker
 - Soms completer URL-beheer
@@ -60,7 +60,7 @@ class: center, middle, intro
 # Mijn persoonlijke recept
 - Compleet SEO beheer: SH404SEF of
 - Joomla functionaliteit + OSMeta + Osmap (of Jsitemap) of
-- Niks (kleine, statische sites 
+- Niks (kleine, statische sites)
 
 ---
 # Voorbeeld: Sh404SEF

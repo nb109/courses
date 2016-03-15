@@ -16,7 +16,8 @@ class: center, middle, intro
 - Zeer nauwkeurig publiek benaderen obv Locatie, Taal, Zoekwoorden, 
 - Cruciaal: budget onder controle houden
 - Makkelijk uitproberen met gratis bon uit bv Webdesigner Magazine
- ---
+ 
+---
 # Adwords structuur
 - Maak een Campagne
 - Dan Advertentiegroep
@@ -81,12 +82,12 @@ Bron: http://blog.adstage.io/2013/05/30/how-ignoring-match-types-can-kill-your-p
 ---
 # Kwaliteitsscore in Adwords
 
-<img src="joomla_seo/images/adwords-07-kwaliteitsscore.png />
+<img src="joomla_seo/images/adwords-07-kwaliteitsscore.png"/>
 
 ---
 # Kwaliteitsscore beinvloed je CPC (Cost Per Click)
 
-<img src="joomla_seo/images/adwords-08-hacking-adwords-how-quality-score-impacts-cpc.png />
+<img src="joomla_seo/images/adwords-08-hacking-adwords-how-quality-score-impacts-cpc.png" />
 
 Bron: http://www.wordstream.com/blog/ws/2014/01/29/hacking-adwords
 

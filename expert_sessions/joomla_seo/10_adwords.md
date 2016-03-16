@@ -98,3 +98,7 @@ Bron: http://www.wordstream.com/blog/ws/2014/01/29/hacking-adwords
   - Leads / nieuwsbrief inschrijvingen e.d.: bepaal zelf
   - Etc.
 - Stel na een paar weken kosten per conversie vast
+
+---
+# Einde
+## Vragen?

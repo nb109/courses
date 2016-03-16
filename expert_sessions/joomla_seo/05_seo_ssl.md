@@ -1,6 +1,7 @@
 class: center, middle, intro
 # SSL 
 ## en SEO
+<img src="/images/logos-seo.png">
 
 ---
 # 6 augustus 2014

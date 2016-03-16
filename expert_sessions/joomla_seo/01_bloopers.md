@@ -1,6 +1,7 @@
 class: center, middle, intro
-# Top 10 Joomla SEO Bloopers
+# Top 10 Joomla <br>SEO Bloopers
 ## Wat gaat er het meest fout?
+<img src="/images/logos-seo.png">
 
 ---
 # 1: Slechte paginatitels

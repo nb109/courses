@@ -1,6 +1,7 @@
 class: center, middle, intro
-# Joomla SEO extensies
+# Joomla SEO<br>extensies
 ## De voor- en nadelen
+<img src="/images/logos-seo.png">
 
 ---
 # Heb je sowieso SEO extensies nodig? Nee!!!

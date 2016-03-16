@@ -3,6 +3,11 @@ class: center, middle, intro
 ## en SEO
 
 ---
+# Social Media & SEO
+- op dit moment     
+
+
+---
 # Open Graph Protocol
 - De rich snippets voor social media. 
 ---
@@ -18,14 +23,13 @@ class: center, middle, intro
 
 ---
 # Vier verplichte items
-```
-<meta property="og:title" content="Titel van blog item">
-<meta property="og:url"   content="Url naar blog item">
-<meta property="og:image" content="Afbeelding van blog item">
-<meta property="og:type"  content="article">
-```
-Er zijn meerdere types mogelijk. Denk aan book, product en book.
-https://developers.facebook.com/docs/reference/opengraph/#object-type
+- og:title :: Titel van de pagina of blog post
+- og:url :: Url naar blog item
+- og:image :: Afbeelding van blog item
+- og:type :: Type content. 
+- - *article* voor blog posts. 
+- - *product* voor producten. 
+- - overig: https://developers.facebook.com/docs/reference/opengraph/#object-type
 
 ---
 # optioneel, maar wel handig

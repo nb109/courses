@@ -69,3 +69,6 @@ class: center, middle, intro
 - Interne en externe dode links
 - Ook inkomende dode links -> slecht signaal voor linkbuilding
 
+---
+# Einde
+## Vragen?

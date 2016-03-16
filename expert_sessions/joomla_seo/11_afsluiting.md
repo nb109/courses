@@ -1,6 +1,16 @@
 class: center, middle, intro
-# Adwords
-## subtitel?
+# Afsluiting
+<img src="/images/logos-seo.png">
 
 ---
-# Simon
+# Samenvattend
+
+---
+# Vragen?
+
+--
+# Boek met korting!
+
+--
+# Resources
+

@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Performance
 ## en SEO
+<img src="/images/logos-seo.png">
 
 ---
 # Snelheid is alles

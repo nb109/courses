@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Joomla core SEO
-## (optimaliseren)
+## Hoe zet ik de core optimaal in?
+<img src="/images/logos-seo.png">
 
 ---
 class: middle, center, intro
@@ -248,6 +249,11 @@ Instelbaar op 3 niveaus in Joomla
 
 --
 4. (Automatisch bepaald door zoekmachine)
+
+--
+
+## Algemene Metabeschrijving
+Beter om Algemene Metabeschrijving leeg te laten, anders standaard overal zelfde
 
 ---
 # Aliassen

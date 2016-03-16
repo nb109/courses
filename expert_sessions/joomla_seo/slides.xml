@@ -14,7 +14,7 @@
     <slideset>
         <id>02_seo_core</id>
         <file>joomla_seo/02_seo_core</file>
-        <title>Joomla core SEO optimaliseren</title>
+        <title>Joomla Core SEO</title>
     </slideset>
     <slideset>
         <id>03_seo_extensies</id>
@@ -67,6 +67,6 @@
     </slideset>
     <slideset>
         <id>borrel</id>
-        <title>- Afsluitende borrel -</title>
+        <title>- Borrel -</title>
     </slideset>
 </slidesets>

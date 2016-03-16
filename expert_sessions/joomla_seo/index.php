@@ -1,9 +1,9 @@
 <?php
 // Page information
 $eventDate     = 'vrijdag 18 maart, 13:00-17:00 uur';
-$eventLocation = 'Bussum';
+$eventLocation = 'Watertoren Bussum';
 $eventTitle    = 'Joomla! SEO - Expert Sessie';
-$eventTag      = '<h1>Joomla! SEO <span>Expert Sessie</span></h1>';
+$eventTag      = '<h1>Joomla! SEO<br><span>Expert Sessie</span></h1>';
 
 require_once '../slide.class.php';
 $slideset      = new Slideset();
@@ -20,15 +20,16 @@ $slidesetStyle = $slideset->getStyle();
 	<link rel="stylesheet" href="../css/<?php echo $slidesetStyle; ?>.css"/>
 </head>
 <body class="session-bg">
-<div class="container">
+<div class="container index container-title">
 	<div class="title-box">
 		<div class="title">
 			<?php echo $eventTag; ?>
-			<p><?php echo $eventDate; ?>, <?php echo $eventLocation; ?></p>
+			<p><?php echo $eventDate; ?><br><?php echo $eventLocation; ?></p>
+			<img src="/images/logos-seo.png">
 		</div>
 	</div>
 </div>
-<div class="container container-program">
+<div class="container index container-program">
 	<ul>
 		<?php foreach ($slidesetData as $slideset) : ?>
 			<li>

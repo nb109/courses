@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Meertaligheid
 ## voor SEO
+<img src="/images/logos-seo.png">
 
 ---
 # Waarom meertaligheid?

@@ -4,23 +4,38 @@ html, body {
 
 .session-bg,
 .remark-slides-area {
-    background: transparent url(../images/joomla-expert-sessie.jpg) top center no-repeat;
+    background: transparent url(../images/expert-sessie-joomla-seo.jpg) center center no-repeat;
     background-size: cover;
 }
 
+.container.index {
+	width: 50%;
+	float: left;
+}
+
+.container-title .title-box {
+	text-align: right;
+	margin-top: 20%;
+}
+
 div.container-program {
-    color: white;
-    background-color: black;
-    opacity: 0.7;
-    text-align: center;
-    position: relative;
-    padding: 20px;
+    text-align: left;
+    position: absolute;
+	font-weight: 800;
+	text-shadow: rgba(0,0,0,.85) 0 0 10px;
+	background-color: rgba(0,0,0, 0.6);
+	height:100%;
+	display: block;
+	bottom: 0;
+	right:0;
+	color: white;
 }
 
 div.container-program ul {
     list-style: none;
-    margin-left: 0;
+    margin: 20px;
     padding-left: 0;
+	width: 500px;
 }
 
 div.container-program li {
@@ -41,12 +56,16 @@ div.title-box {
 
 div.title-box h1 {
     font-size: 360%;
-    text-shadow: rgba(0,0,0,.85) 0 0 14px;
+    text-shadow: rgba(0,0,0,1) 0 0 30px;
 }
 
 div.title-box p {
     font-size: 160%;
-    text-shadow: rgba(0,0,0,.85) 0 0 14px;
+    text-shadow: rgba(0,0,0,1) 0 0 20px;
+}
+
+div.title-box img {
+	max-width: 60%;
 }
 
 .remark-slide-container {
@@ -197,32 +216,10 @@ table {
     background: inherit;
 }
 
-.intro:before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 150px;
-    width: 300px;
-    display: block;
-    background-image: url(../images/perfectwebteam.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: bottom left;
-}
-
-.intro:after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    height: 150px;
-    width: 300px;
-    display: block;
-    background-image: url(../images/yireo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: bottom right;
+.intro img {
+	border:none;
+	max-width: 70%;
+	margin: 0 auto;
 }
 
 .intro .remark-slide-number {
@@ -232,7 +229,7 @@ table {
 .intro.center.middle h1,
 .intro.center.middle h2,
 .intro.center.middle h3 {
-    text-shadow: rgba(0,0,0,.85) 0 0 14px;
+    text-shadow: rgba(0,0,0,1) 0 0 40px;
     color: #fff;
 }
 

@@ -126,3 +126,7 @@ Gebruik je eigen ogen:
 ## Maurice Lehr op de Joomladagen:
 
 # SEO Audit- Hoe doe je dat?
+
+---
+# Einde
+33 Vragen?

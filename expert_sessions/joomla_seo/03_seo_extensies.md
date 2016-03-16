@@ -76,3 +76,7 @@ class: center, middle, intro
 # SH404SEF: Individuele URL aanpassen
 
 <img src="joomla_seo/images/extensions-03-sh404sef-url-aanpassen.png">
+
+---
+# Einde
+## Vragen?

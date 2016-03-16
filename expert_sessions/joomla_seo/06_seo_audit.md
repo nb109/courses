@@ -31,7 +31,7 @@ class: center, middle, intro
 
 ---
 # Wat meet je met een audit?
-## On-page SEO
+## Off-page SEO
 - Rankings / status in Google
 - Social media
 - Backlinks
@@ -74,6 +74,9 @@ Gebruik je eigen ogen:
   - Etcetera
 
 ---
+# Browser extension: Open SEO Stats
+<img src="joomla_seo/images/audit-02-open-seo-stats.jpg"/>
+
 # Gebruik natuurlijk Google Search Console
 - Monitor vooral 404 fouten (crawl errors)
 - HTML fouten
@@ -104,7 +107,7 @@ Gebruik je eigen ogen:
 
 ---
 # Onpage.org (2)
-<img src="joomla_seo/images/audit-04-onpage.jpg"/>
+<img src="joomla_seo/images/audit-05-onpage2.jpg"/>
 
 ---
 # Tools voor specifieke doeleinden
@@ -123,3 +126,7 @@ Gebruik je eigen ogen:
 ## Maurice Lehr op de Joomladagen:
 
 # SEO Audit- Hoe doe je dat?
+
+---
+# Einde
+## Vragen?

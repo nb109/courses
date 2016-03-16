@@ -27,6 +27,7 @@ class: center, middle, intro
 
 <img src="joomla_seo/images/bloopers-02-keyword-research.jpg">
 
+---
 # 4: Duplicate content
 - Non-SEF URL’s geindexeerd
 - Artikelen via meerdere menu-items gekoppeld
@@ -34,31 +35,40 @@ class: center, middle, intro
 
 <img src="joomla_seo/images/bloopers-04-duplicate.png">
 
+---
 # 5: Indexatie: Robots issues
 - Robots.txt fouten
 - Development site op NOINDEX gezet en live gezet
 
+---
 # 6: Indexatie: Canonical URL issues
 - Slechte (zelfbouw) componenten
 - Componenten die absolute URL’s opslaan: Pas op bij live zetten van een demo site (Hikashop bv)
 
+---
 # 7: Oude robots.txt 
 - Vroeger werden /images, /templates en /media geblokkeerd in robots.txt
 - Niet meer doen, slecht voor indexering van plaatjes en de mobielvriendelijke test
 
+---
 # 8: Langzame websites
 - Lijkt obvious vast te stellen, maar komt nog vaak voor
 - Teveel frontend extensies, slechte templates
 - Nooit naar performance gekeken
 - Meten = weten
 
+---
 # 9: Thin content: (bijna) Lege pagina’s
 - Veel URL’s worden automatisch aangemaakt door Joomla:www.example.com/component/users/?view=login e.d.
 - Categorie blogs en lijsten zonder eigen inhoud
 - Allemaal zogenaamde “Thin content”
 - Verdunt de SEO waarde van de echt waardevolle pagina’s
 
+---
 # 10: Dode links
 - Interne en externe dode links
 - Ook inkomende dode links -> slecht signaal voor linkbuilding
 
+---
+# Einde
+## Vragen?

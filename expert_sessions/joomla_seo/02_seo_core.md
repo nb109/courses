@@ -15,7 +15,7 @@ class: middle, center
 <img src="joomla_seo/images/02-core-seosettings.png">
 
 ---
-# Zoekmachinevriendelijke URL's
+# Zoekmachinevriendelijke URLs
 
 ### Nee:
 
@@ -40,7 +40,7 @@ class: middle, center
 `expertsessie.com/event/2-joomla-seo`
 
 ---
-# Voeg een achtervoegsel (suffix) aan URL's toe
+# Voeg een achtervoegsel (suffix) aan URLs toe
 
 ### Nee:
 

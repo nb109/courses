@@ -1,6 +1,6 @@
 class: center, middle, intro
-# SSL 
-## en SEO
+# SSL &amp; SEO
+## Wat is de invloed van SSL op SEO?
 <img src="/images/logos-seo.png">
 
 ---

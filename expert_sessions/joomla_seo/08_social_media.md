@@ -129,8 +129,7 @@ if (($this->app->get('gzip') == 1) && $unsupported) {
 - https://developers.pinterest.com/tools/url-debugger/
 
 ## Voor afbeeldingen
-- Twitter thumbnail: 120x120px
-- Twitter large image: 280x150px
+- Twitter thumbnail: 120x120px, Twitter large image: 280x150px
 - Facebook: de standaarden verschillen. Minimaal 200x200px. Grote afbeeldingen tot 1200x630px.
 
 ## Open Graph als fallback

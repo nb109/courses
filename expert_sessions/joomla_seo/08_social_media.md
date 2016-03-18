@@ -149,10 +149,21 @@ if (($this->app->get('gzip') == 1) && $unsupported) {
 `Joomla! plugin Social Meta Tags`
 
 - https://github.com/hans2103/pkg_SocialMetaTags
-- system en user plugin die al het eerder genoemde verwerkt
-- gratisch
-- makkelijk te updaten
-- sta open voor verbeteringen
+- System en user plugin die al het eerder genoemde verwerkt
+- Facebook Fix
+- Gratisch
+- Makkelijk te updaten
+- Sta open voor verbeteringen
+
+---
+# Social Meta Tags - Plugin settings
+
+<img src="joomla_seo/images/08-plugin-system.png"/>
+
+---
+# Social Meta Tags - User settings
+
+<img src="joomla_seo/images/08-plugin-user.png"/>
 
 ---
 # Einde

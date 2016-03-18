@@ -12,7 +12,8 @@ class: center, middle, intro
 - Kwalitatieve content
     - Dus geen Yireo GoogleTranslate/BingTranslate?
 - Correcte `rel="alternate"` tag
-    - Ondersteund door Joomla
+    - Ondersteund door Language Filter plugin
+    - Optionele `x-default` tag
 - Prefix vs. Domein
     - Taal prefix: `example.com/nl/`
     - Subdomein per taal: `nl.example.com/`

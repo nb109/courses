@@ -82,6 +82,8 @@ Gebruik je eigen ogen:
 - Monitor vooral 404 fouten (crawl errors)
 - HTML fouten
 - Bij serieuze problemen krijg je een mailtje!
+- Zichtbaarheid in SERP
+<img src="joomla_seo/images/twitter.png"/>
 
 ---
 # Desktoptools

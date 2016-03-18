@@ -130,3 +130,8 @@ class: middle, center, intro
 # Bedankt!
 ## Hannes Papenberg
 <img src="joomla_seo/images/07_hannesbedankt.jpg">
+
+---
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Social Media & SEO

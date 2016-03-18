@@ -30,3 +30,8 @@ class: center, middle, intro
 ---
 # Setup Joomla
 http://yir.io/simonknows
+
+---
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>SSL & SEO

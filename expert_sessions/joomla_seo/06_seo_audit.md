@@ -131,5 +131,6 @@ Gebruik je eigen ogen:
 # SEO Audit- Hoe doe je dat?
 
 ---
-# Einde
-## Vragen?
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Joomla 3.6: router

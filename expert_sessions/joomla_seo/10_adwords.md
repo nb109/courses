@@ -101,5 +101,6 @@ Bron: http://www.wordstream.com/blog/ws/2014/01/29/hacking-adwords
 - Stel na een paar weken kosten per conversie vast
 
 ---
-# Einde
-## Vragen?
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Afsluiting &amp; vragen

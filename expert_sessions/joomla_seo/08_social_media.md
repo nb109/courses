@@ -1,6 +1,6 @@
 class: center, middle, intro
-# Social Media
-## en SEO
+# Social Media<br>&amp; SEO
+## Zo ziet social media je site!
 <img src="/images/logos-seo.png">
 
 ---
@@ -166,5 +166,6 @@ if (($this->app->get('gzip') == 1) && $unsupported) {
 <img src="joomla_seo/images/08-plugin-user.png"/>
 
 ---
-# Einde
-## Vragen?
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Performance & SEO

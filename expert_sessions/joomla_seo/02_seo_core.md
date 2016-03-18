@@ -317,3 +317,8 @@ URL: `expertsessie.com/joomla-seo`
 ``` html
 <meta name="description" content="Tijdens deze Expert Sessie op 18 maart nemen we een diepe duik in Joomla SEO. Leer hoe je mooie Joomla-website ook gevonden wordt in Google!" />
 ```
+
+---
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Joomla SEO extensies

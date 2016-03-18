@@ -79,5 +79,6 @@ class: center, middle, intro
 <img src="joomla_seo/images/extensions-03-sh404sef-url-aanpassen.png">
 
 ---
-# Einde
-## Vragen?
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Meertaligheid & SEO

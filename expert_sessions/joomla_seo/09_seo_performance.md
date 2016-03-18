@@ -64,3 +64,7 @@ class: center, middle, intro
 - Stream Priority
     - Eerst HTML, dan CSS, dan JS, dan images
 
+---
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Adwords

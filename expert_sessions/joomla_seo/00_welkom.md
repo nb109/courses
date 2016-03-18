@@ -8,9 +8,9 @@ class: middle, center, intro
 <img src="joomla_security/images/yireo.png" />
 
 ---
-# Perfect Web Team
-<img src="joomla_security/images/perfectwebteam.png"/>
-
----
 # Joomlaseo.com
 <img src="joomla_seo/images/joomlaseo.png"/>
+
+---
+# Perfect Web Team
+<img src="joomla_security/images/perfectwebteam.png"/>

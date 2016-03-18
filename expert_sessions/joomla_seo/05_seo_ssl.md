@@ -38,3 +38,7 @@ Google geeft aan HTTPS als ranking signaal op te nemen
     - Default naar SSL
     - Durf je HSTS aan te zetten?
 
+---
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>SEO audit uitvoeren<br>Maar eerst pauze!

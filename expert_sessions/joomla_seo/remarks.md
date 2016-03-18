@@ -12,3 +12,8 @@ http://expertsessie.perfectwebteam.nl/slide.php?theme=joomla_seo&id=05_seo_ssl#2
 ```
 Sterker nog… recentelijk (ik heb het nog niet terug kunnen vinden) heeft Google aangegeven dat ze http als unsecure bestempelen.
 https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure
+
+
+# Schrijven van tekst?
+
+# Plugin facebook gzip

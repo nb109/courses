@@ -75,5 +75,6 @@ class: center, middle, intro
 ## Het blijft natuurlijk wel draaien om mooie sites met goede usablity en goede teksten!
 
 ---
-# Einde
-## Vragen?
+class: center, middle, intro
+# Vragen?
+## Hierna:<br>Joomla Core SEO

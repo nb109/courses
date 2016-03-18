@@ -71,5 +71,9 @@ class: center, middle, intro
 - Ook inkomende dode links -> slecht signaal voor linkbuilding
 
 ---
+# Afsluitend
+## Het blijft natuurlijk wel draaien om mooie sites met goede usablity en goede teksten!
+
+---
 # Einde
 ## Vragen?

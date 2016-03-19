@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Performance &amp; SEO
 ## Snelheid is alles!
+### Jisse Reitsma
 <img src="/images/logos-seo.png">
 
 ---

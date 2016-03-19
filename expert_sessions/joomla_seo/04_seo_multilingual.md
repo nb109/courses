@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Meertaligheid & SEO
 ## Waar moet ik op letten?
+### Jisse Reitsma
 <img src="/images/logos-seo.png">
 
 ---

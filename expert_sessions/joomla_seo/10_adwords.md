@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Adwords
 ## Let's spend some money!!!!
+### Simon Kloostra
 <img src="/images/logos-seo.png">
 
 ---

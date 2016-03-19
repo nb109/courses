@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Joomla SEO<br>extensies
 ## De voor- en nadelen
+### Simon Kloostra
 <img src="/images/logos-seo.png">
 
 ---

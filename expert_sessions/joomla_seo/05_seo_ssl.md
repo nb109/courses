@@ -1,6 +1,7 @@
 class: center, middle, intro
 # SSL &amp; SEO
 ## Wat is de invloed van SSL op SEO?
+### Jisse Reitsma
 <img src="/images/logos-seo.png">
 
 ---

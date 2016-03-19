@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Joomla 3.6:<br> nieuwe router
 ## Hier kijken we al jaren naar uit!
+### Sander Potjer
 <img src="/images/logos-seo.png">
 
 ---

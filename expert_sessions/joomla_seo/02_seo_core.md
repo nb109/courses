@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Joomla core SEO
 ## Hoe zet ik de core optimaal in?
+### Sander Potjer
 <img src="/images/logos-seo.png">
 
 ---

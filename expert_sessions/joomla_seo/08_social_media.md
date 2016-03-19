@@ -1,6 +1,7 @@
 class: center, middle, intro
 # Social Media<br>&amp; SEO
 ## Zo ziet social media je site!
+### Hans Kuijpers
 <img src="/images/logos-seo.png">
 
 ---

@@ -1,6 +1,7 @@
 class: center, middle, intro
 # SEO Audit
 ## op je eigen site uitvoeren
+### Simon Kloostra
 <img src="/images/logos-seo.png">
 
 ---

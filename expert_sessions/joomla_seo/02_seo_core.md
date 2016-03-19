@@ -231,7 +231,7 @@ Het `<title>` element van de pagina. Zeer belangrijk voor SEO! Maximaal 60-65 le
 
 ## Op welke zou jij eerder klikken? (CTR)
 - Welkom bij Expert Sessie Joomla SEO, Bussum
-- Wordt Joomla SEO Expert in één middag! Expert Sessie in Bussum
+- Word Joomla SEO Expert in één middag! Expert Sessie in Bussum
 
 --
 
@@ -305,7 +305,7 @@ URL: `expertsessie.com/joomla-seo`
 
 ### Title-tag:
 ``` html
-<title>Wordt Joomla SEO Expert in één middag! Expert Sessie in Bussum</title>
+<title>Word Joomla SEO Expert in één middag! Expert Sessie in Bussum</title>
 ```
 
 ### Artikel titel

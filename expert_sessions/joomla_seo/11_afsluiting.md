@@ -14,7 +14,7 @@ class: center, middle, intro
 ---
 class: center, middle, intro
 # Joomla! SEO boek 
-## Van Simon, met korting!
+## Van Simon Kloostra
 <img src="/joomla_seo/images/joomla-seo-boek.jpg">
 
 ---

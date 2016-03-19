@@ -41,7 +41,7 @@ class: center, middle, intro
 # Optioneel, maar wel handig
 ``` html
 <meta property="og:description" content="Vindbaarheid op het web is natuurlijk superbelangrijk voor vrijwel elke website, anders heb je een mooie website die niemand kan vinden. In deze Expert Sessie nemen we een diepe duik in het onderwerp Zoekmachine Optimalisatie (SEO) voor Joomla.">
-<meta property="og:locale" content="nl_NL_">
+<meta property="og:locale" content="nl_NL">
 <meta property="og:locale:alternate" content="fr_FR" />
 <meta property="og:site_name" content="Perfect Web Team">
 <meta property="fb:admins" content="USER_ID,USER_ID2,USER_ID3">

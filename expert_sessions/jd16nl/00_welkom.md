@@ -1,7 +1,7 @@
 class: middle, center, intro
-# Joomla! SEO
-## Expert Sessie
-<img src="../../images/logos-seo.png">
+# Maak je website geschikt voor mobiel
+## Hans Kuijpers
+<img src="images/logos-hkweb-pwt.png">
 
 ---
 # Yireo

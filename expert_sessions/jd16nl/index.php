@@ -1,9 +1,9 @@
 <?php
 // Page information
-$eventDate     = 'vrijdag 18 maart, 13:00-17:00 uur';
-$eventLocation = 'Watertoren Bussum';
-$eventTitle    = 'Joomla! SEO - Expert Sessie';
-$eventTag      = '<h1>Joomla! SEO<br><span>Expert Sessie</span></h1>';
+$eventDate     = 'zondag , 14:35-15:15 uur';
+$eventLocation = 'Woudschoten, Zeist';
+$eventTitle    = 'Joomla!dagen - Website geschikt maken voor mobiel';
+$eventTag      = '<h1>Website geschikt maken voor mobiel<br><span>Hans Kuijpers</span></h1>';
 
 require_once '../slide.class.php';
 $slideset      = new Slideset();
@@ -25,7 +25,7 @@ $slidesetStyle = $slideset->getStyle();
 		<div class="title">
 			<?php echo $eventTag; ?>
 			<p><?php echo $eventDate; ?><br><?php echo $eventLocation; ?></p>
-			<img src="../images/logos-seo.png">
+			<img src="../images/logos-hkweb-pwt.png">
 		</div>
 	</div>
 </div>
@@ -34,8 +34,8 @@ $slidesetStyle = $slideset->getStyle();
 		<?php foreach ($slidesetData as $slideset) : ?>
 			<li>
 				<?php if (!empty($slideset['file'])): ?>
-				<a href="../slide.php?theme=<?php echo $slidesetStyle; ?>&id=<?php echo $slideset['id']; ?>">
-					<?php echo $slideset['title']; ?>
+					<a href="../slide.php?theme=<?php echo $slidesetStyle; ?>&id=<?php echo $slideset['id']; ?>">
+						<?php echo $slideset['title']; ?>
 					</a>
 				<?php else: ?>
 					<?php echo $slideset['title']; ?>

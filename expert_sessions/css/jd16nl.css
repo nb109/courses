@@ -123,6 +123,7 @@ h1, h2, h3 {
 
 .remark-slide h1 {
 	margin-top: 10px;
+	font-size: 54px;
 }
 
 .remark-slide img {
@@ -259,4 +260,17 @@ table {
 
 .fullscreen-active .player-video-wrapper {
 	padding-top: 0px;
+}
+
+
+.container.index {
+	width: 100%;
+	float: none;
+}
+.container.index.container-program {
+	background-color: transparent;
+}
+.container-title .title-box {
+	text-align: center;
+	margin-top: 10%;
 }

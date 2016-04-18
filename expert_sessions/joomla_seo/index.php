@@ -25,7 +25,7 @@ $slidesetStyle = $slideset->getStyle();
 		<div class="title">
 			<?php echo $eventTag; ?>
 			<p><?php echo $eventDate; ?><br><?php echo $eventLocation; ?></p>
-			<img src="/images/logos-seo.png">
+			<img src="../images/logos-seo.png">
 		</div>
 	</div>
 </div>

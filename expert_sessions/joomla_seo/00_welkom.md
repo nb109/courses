@@ -1,7 +1,7 @@
 class: middle, center, intro
 # Joomla! SEO
 ## Expert Sessie
-<img src="/images/logos-seo.png">
+<img src="../../images/logos-seo.png">
 
 ---
 # Yireo

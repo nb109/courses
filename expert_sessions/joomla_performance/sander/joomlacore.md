@@ -73,3 +73,9 @@ class: middle, center, intro
 # Joomla! Paginacache
 
 <img src="joomla_performance/sander/images/joomla-page-cache.png">
+
+---
+class: center, middle, intro
+# Bedankt!
+
+<img src="/images/logos.png">

@@ -79,3 +79,9 @@ class: middle, center, intro
 - Geen ionCube of Xdebug
 - HTTPS met HTTP/2
 - Geoptimaliseerde webhost
+
+---
+class: center, middle, intro
+# Bedankt!
+
+<img src="/images/logos.png">

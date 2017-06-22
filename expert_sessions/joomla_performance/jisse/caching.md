@@ -82,3 +82,9 @@ class: middle, center, intro
 - Redis is sneller dan Memcached
 - Memcached is er ook als Sessie Handler
 - Memcached kan goed clusteren, Redis minder goed
+
+---
+class: center, middle, intro
+# Bedankt!
+
+<img src="/images/logos.png">

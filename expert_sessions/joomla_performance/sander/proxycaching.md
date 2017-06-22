@@ -229,3 +229,9 @@ public static function getAjax()
 	return json_encode($response);
 }
 ```
+
+---
+class: center, middle, intro
+# Bedankt!
+
+<img src="/images/logos.png">

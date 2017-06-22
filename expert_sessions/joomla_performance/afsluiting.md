@@ -17,7 +17,7 @@ class: center, middle, intro
 
 ---
 # Joostock 7 & 8 oktober
-<img src="/joomla_performance/images/joostock.jpg">
+<img src="joomla_performance/images/joostock.jpg">
 
 ---
 # JUG  Bussum

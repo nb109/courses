@@ -62,9 +62,9 @@
     </slideset>
 
     <slideset>
-        <id>servercaching</id>
-        <file>joomla_performance/sander/servercaching</file>
-        <title>Server caching</title>
+        <id>proxycaching</id>
+        <file>joomla_performance/sander/proxycaching</file>
+        <title>Proxy caching</title>
     </slideset>
 
     <slideset>

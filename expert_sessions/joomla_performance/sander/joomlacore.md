@@ -37,10 +37,6 @@ Gebruik de meest recente versies van Joomla en extensies
 
 `public $gzip = '1';`
 
-
-### Testen &amp; winst bekijken
-Test via <a href="https://varvy.com/tools/gzip/">https://varvy.com/tools/gzip/</a>
-
 ### Let op!
 Kan soms problemen geven, bijvoorbeeld met Facebook en LinkedIn. Oplossing in JED: <a href="https://extensions.joomla.org/extension/gzip-control/">Gzip Control</a>.
 

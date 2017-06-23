@@ -8,8 +8,10 @@ class: middle, center, intro
 <img src="joomla_performance/simon/images/emerce.png">
 
 ---
-# Google: Bounce rate versus laadtijd
-<img src="joomla_performance/simon/images/.png">
+# Google: Bounce rate vs laadtijd
+<img src="joomla_performance/simon/images/bouncerate.png">
+
+<a href="https://www.thinkwithgoogle.com/articles/mobile-page-speed-new-industry-benchmarks.html">https://www.thinkwithgoogle.com/articles/mobile-page-speed-new-industry-benchmarks.html</a>
 
 ---
 # Wat is AMP?
@@ -31,30 +33,33 @@ AMP definitie volgens Google zelf op www.ampproject.org:
 
 ---
 # AMP in Google zoekresultaten
-<img src="joomla_performance/simon/images/.png">
+<img src="joomla_performance/simon/images/amp-in-google.png">
 
 ---
 # Desktop versus AMP visueel
 Gewone pagina versus AMP equivalent
-<img src="joomla_performance/simon/images/.png">
+
+<img src="joomla_performance/simon/images/desktop-vs-amp.png">
 
 ---
 # Responsive versus AMP
-Gewone pagina versus AMP equivalent. Nu al weinig verschil, terwijl AMP veel sneller zal zijn
-<img src="joomla_performance/simon/images/.png">
+Nu al weinig verschil, terwijl AMP veel sneller zal zijn
+
+<img src="joomla_performance/simon/images/responsive-vs-amp.png">
 
 ---
 # AMP vanaf Google.com
 - Let op URL: Geserveerd vanaf Google.nl
 - Wel een melding over het originele domein
 - Welke URL gaan mensen delen...
-<img src="joomla_performance/simon/images/.png">
+
+<img src="joomla_performance/simon/images/amp-googlecom.png">
 
 ---
 # Mobiele site: vaak traag
 Nu.nl, gemeten met Gtmetrix.com:
 
-<img src="joomla_performance/simon/images/.png">
+<img src="joomla_performance/simon/images/amp-gtmetrix.png">
 
 ---
 # Waarom wel AMP?
@@ -83,7 +88,7 @@ Nu.nl, gemeten met Gtmetrix.com:
 - Recepten sites
 - Binnenkort ook webshops? Zie Ebay:
 
-<img src="joomla_performance/simon/images/.png">
+<img src="joomla_performance/simon/images/amp-ebay.png">
 
 ---
 # AMP: voor welke pagina’s?
@@ -93,7 +98,7 @@ Nu.nl, gemeten met Gtmetrix.com:
 
 ---
 # AMP: Implementatie
-<img src="joomla_performance/simon/images/.png">
+<img src="joomla_performance/simon/images/amp-implementatie.png">
 
 ---
 # AMP: Implementatie in Joomla
@@ -101,12 +106,13 @@ Nu.nl, gemeten met Gtmetrix.com:
 	- 20% korting met coupon `5RXHD-NYJNF-GFJ7H`
 - jAMP van StoreJextensions (<a href="https://storejextensions.org/extensions/jamp.html">https://storejextensions.org/extensions/jamp.html</a>)
 
-<img src="joomla_performance/simon/images/.png">
+<img src="joomla_performance/simon/images/wbamp.png">
 
 ---
 # wbAMP: welke pagina’s
 Selecteer je statische pagina’s in Joomla (eventueel andere componenten):
-<img src="joomla_performance/simon/images/.png">
+
+<img src="joomla_performance/simon/images/wbamp-rule.png">
 
 ---
 # Overwegingen
@@ -120,7 +126,9 @@ Selecteer je statische pagina’s in Joomla (eventueel andere componenten):
 # AMP valideren
 - In Chrome `Developer tools` > `Console`. Voeg `#development=1` toe aan URL en refresh:
 	- Resultaat: AMP validation succesvol of foutmeldingen
-- Handiger: Chrome extensie AMP validator  <a href="https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc">https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc</a>
+- Handiger: <a href="https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc">Chrome extensie AMP validator </a>
+
+<img src="joomla_performance/simon/images/amp-valideren.png">
 
 ---
 class: center, middle, intro

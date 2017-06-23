@@ -65,4 +65,5 @@ blockquote p {
 
 blockquote p + p {
 	display: block;
+	margin-bottom: 0;
 }

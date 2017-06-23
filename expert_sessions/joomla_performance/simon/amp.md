@@ -135,3 +135,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=htaccess#1">htaccess performance door Hans Kuijpers</a>
+
+<a href="joomla_performance">programma</a>

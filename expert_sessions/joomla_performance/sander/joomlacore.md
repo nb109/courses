@@ -79,3 +79,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=caching#1">Cache handlers door Jisse Reitsma</a>
+
+<a href="joomla_performance">programma</a>

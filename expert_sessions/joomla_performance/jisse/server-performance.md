@@ -85,3 +85,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=proxycaching#1">Proxy caching door Sander Potjer</a>
+
+<a href="joomla_performance">programma</a>

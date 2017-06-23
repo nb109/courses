@@ -60,3 +60,7 @@ Als er voldoende tijd is :-)
 ---
 # Maar eerst: budget vaststellen
 <img src="joomla_performance/images/budget.jpg"/>
+
+Next: <a href="slide.php?theme=joomla_performance&id=budget#1">Performance Budget door Robin Poort</a>
+
+<a href="joomla_performance">programma</a>

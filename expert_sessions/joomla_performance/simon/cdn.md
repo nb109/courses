@@ -95,3 +95,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=tools-technieken#1">Analysetools & technieken door Robin Poort</a>
+
+<a href="joomla_performance">programma</a>

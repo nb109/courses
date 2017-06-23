@@ -251,3 +251,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=server#1">Server performance door Jisse Reitsma</a>
+
+<a href="joomla_performance">programma</a>

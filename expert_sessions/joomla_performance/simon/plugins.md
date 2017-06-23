@@ -105,3 +105,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=images#1">Optimaliseer afbeeldingen door Simon Kloostra</a>
+
+<a href="joomla_performance">programma</a>

@@ -235,3 +235,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=cdn#1">Content Delivery Networks (CDN) door Simon Kloostra</a>
+
+<a href="joomla_performance">programma</a>

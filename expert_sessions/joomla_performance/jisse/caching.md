@@ -88,3 +88,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=plugins#1">Optimalisatie plugins door Simon Kloostra</a>
+
+<a href="joomla_performance">programma</a>

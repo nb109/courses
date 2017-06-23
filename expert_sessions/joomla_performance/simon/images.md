@@ -114,3 +114,7 @@ class: center, middle, intro
 # Bedankt!
 
 <img src="/images/logos.png">
+
+Next: <a href="slide.php?theme=joomla_performance&id=amp#1">Accelerated Mobile Pages door Simon Kloostra</a>
+
+<a href="joomla_performance">programma</a>

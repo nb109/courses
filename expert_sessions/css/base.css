@@ -67,3 +67,8 @@ blockquote p + p {
 	display: block;
 	margin-bottom: 0;
 }
+
+.intro.center.middle a {
+	color: #fff;
+	text-shadow: rgba(0,0,0,1) 0 0 40px;
+}

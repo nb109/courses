@@ -32,8 +32,30 @@ class: middle, center, intro
 - Server optimalisaties en CDN
 
 --
+
 ## Meten is weten
 - Hoe weet ik of aanpassingen effect hebben?
+
+---
+# Programma
+- 13:00 - 14:45: presentaties deel 1
+- 14:45 - 15:15: pauze
+- 15:15 - 14:45: presentaties deel 2
+- 17:00: einde & aansluitend borrel
+
+---
+# Praktisch
+
+## Slides
+Alle slides komen online op <a href="https://perfectwebteam.nl/expert-sessie/joomla-performance">https://perfectwebteam.nl/expert-sessie/joomla-performance</a>
+
+## Wifi
+netwerk: `hiero`
+
+wachtwoord: `daaro`
+
+## Vragen tijdens presentaties
+Als er voldoende tijd is :-)
 
 ---
 # Maar eerst: budget vaststellen
